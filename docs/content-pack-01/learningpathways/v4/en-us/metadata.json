@@ -35,11 +35,16 @@
           "Name": "Policies"
         }
       ]
+    },
+    {
+      "Id": "3472cf50-17fe-4b25-a98c-f7c44002da8b",
+      "Name": "Learning Hub",
+      "Subjects": []
     }
   ],
   "Categories": [
     {
-      "Id": "3bcaf523-311e-46e1-b971-9c3b5d268adf",
+      "Id": "357c3028-a097-40f3-ae82-0ea1414082ec",
       "Name": "Getting started with Policing 365",
       "Image": "images/categories/policing-365.png",
       "TechnologyId": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
@@ -47,7 +52,7 @@
       "Source": "Learning Hub Team",
       "SubCategories": [
         {
-          "Id": "6c148f88-11d0-418c-b8c9-e0bc000b8e19",
+          "Id": "5c2da2ee-0f22-4797-aba3-ce50c6853b3f",
           "Name": "Welcome Pack",
           "Image": "images/categories/policing-365.png",
           "TechnologyId": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
@@ -56,7 +61,7 @@
           "SubCategories": []
         },
         {
-          "Id": "4914a602-d403-487f-b631-7209098eb629",
+          "Id": "2c4d6282-1ed4-40c9-a3c0-79aea6852e8b",
           "Name": "Microsoft Teams",
           "Image": "images/categories/policing-365.png",
           "TechnologyId": "87868376-aedc-4590-806b-f0a7873f1a49",
@@ -65,7 +70,7 @@
           "SubCategories":[]
         },
         {
-          "Id": "1e44aa4e-3d68-4217-89c5-e08a46806d83",
+          "Id": "b14a7694-ffaa-44a4-9c1e-4a12dcd47b60",
           "Name": "SharePoint Online",
           "Image": "images/categories/policing-365.png",
           "TechnologyId": "72887105-5917-443e-9c85-a4ba0dbecd76",
@@ -74,7 +79,7 @@
           "SubCategories":[]
         },
         {
-          "Id": "d364b403-e065-4ad7-a1a5-16ee7236c752",
+          "Id": "fabd142c-64fc-478f-a049-0588e79ebaba",
           "Name": "Benefits",
           "Image": "images/categories/policing-365.png",
           "TechnologyId": "72887105-5917-443e-9c85-a4ba0dbecd76",
