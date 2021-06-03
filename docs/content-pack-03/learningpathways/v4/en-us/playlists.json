@@ -1,0 +1,73 @@
+[
+  {
+    "Id": "c6b58e7f-cff2-43dc-b5d7-1aea5ae925f0",
+    "Title": "Change owner dummy playlist",
+    "Image": "images/playlists/playlist-placeholder.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "c409b618-8f33-4c4d-94b3-f5af318dae2e",
+    "SubjectId": "",
+    "Source": "The Learning Hub Team",
+    "CatId": "bf004d8d-d1f0-4514-a0f1-fc67acf53c49",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Clearly we need more bananas please!",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "0248ad11-c30e-49a8-9351-f18ff2982820",
+      "b0544982-6d2b-4e28-9704-7c6d1ecbf196",
+      "96c94e9c-4a0f-4e8e-93be-ab40356b07c9",
+      "18e3e044-2dc9-4f28-bd6b-66ff744f58f5"
+    ]
+  },
+  {
+    "Id": "b607ca74-ca6c-4450-b541-024d65d9e2a4",
+    "Title": "Change champion dummy playlist",
+    "Image": "images/playlists/playlist-placeholder.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "The Learning Hub Team",
+    "CatId": "bfd1a28e-812b-4532-aab7-78c9d3fb3df4",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Please send more monkeys",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+    ]
+  },
+  {
+    "Id": "47c7c31b-b4d4-40a7-8d7e-76282a8e8fb1",
+    "Title": "Change admin dummy playlist",
+    "Image": "images/playlists/playlist-placeholder.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "The Learning Hub Team",
+    "CatId": "e995ef27-cebe-40ed-a325-7c9d19296802",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  This is harder than sticks and stones",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+    ]
+  },
+  {
+    "Id": "af4b0d86-df2a-4075-b0eb-632172025963",
+    "Title": "Super users dummy playlist",
+    "Image": "images/playlists/playlist-placeholder.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "The Learning Hub Team",
+    "CatId": "9883144b-fb71-427c-ba4c-1c908294b2ef",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Apes Together Strong",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+    ]
+  }
+]

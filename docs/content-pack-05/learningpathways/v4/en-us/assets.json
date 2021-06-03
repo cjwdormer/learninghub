@@ -1,0 +1,46 @@
+[
+  {
+    "Id": "",
+    "Title": "Dummy asset 01",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Demo-page-for-assets.aspx?embed=true",
+    "TechnologyId": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "",
+    "Title": "Dummy asset 02",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Demo-page-for-assets.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "",
+    "Title": "Dummy asset 03",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Demo-page-for-assets.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "",
+    "Title": "Dummy asset 04",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Demo-page-for-assets.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }
+]

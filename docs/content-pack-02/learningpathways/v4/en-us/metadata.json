@@ -1,0 +1,195 @@
+{
+  "Technologies": [
+    {
+      "Id": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
+      "Name": "SharePoint Online",
+      "Subjects": [
+        {
+          "Id": "f692a30f-d303-43d0-ac34-7b7ac520235d",
+          "Name": "Guidance"
+        },
+        {
+          "Id": "501f68cc-359f-49fa-9598-fabffa0fd4ab",
+          "Name": "Best Practice"
+        },
+        {
+          "Id": "185624bc-0513-4159-ba45-6b36ea505512",
+          "Name": "Policies"
+        }
+      ]
+    },
+    {
+      "Id": "28b91d7c-f797-44d2-a9ea-b823b3ea26a3",
+      "Name": "Onedrive",
+      "Subjects": [
+        {
+          "Id": "b796fd9e-0a24-465e-93d6-58a0b6266bf4",
+          "Name": "Guidance"
+        },
+        {
+          "Id": "1e9c35ac-475a-49a7-9a72-34101f627f8c",
+          "Name": "Best Practice"
+        },
+        {
+          "Id": "b47403d4-5e68-4312-ba15-e1d98dfd46ca",
+          "Name": "Policies"
+        }
+      ]
+    },
+    {
+      "Id": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
+      "Name": "Information Managment",
+      "Subjects":[
+        {
+          "Id": "9b87a370-eb2f-4db0-aab1-65b5a8846725",
+          "Name": "Guidance"
+        },
+        {
+          "Id": "56895928-9200-4ebc-abfb-a183f7c7bb6d",
+          "Name": "Best Practice"
+        },
+        {
+          "Id": "ecfbc271-26ff-4a40-ae36-2c08a48d6d6b",
+          "Name": "Policies"
+        }
+      ]
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "61f6f1ac-25a7-432f-80a2-5c50503f46db",
+      "Name": "Managing your documents in the cloud",
+      "Image": "images/categories/category-placeholder.png",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Learning Hub Team",
+      "SubCategories": [
+        {
+          "Id": "ea15aa58-4bfc-46bd-af7e-d6b02653e805",
+          "Name": "SharePoint Online readiness",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
+        {
+          "Id": "e75240c6-bfaf-4693-8091-ac3116f7cca0",
+          "Name": "Onedirve readiness",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "28b91d7c-f797-44d2-a9ea-b823b3ea26a3",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
+        {
+          "Id": "ae14c406-edf8-4ec1-8996-d78d5a17c661",
+          "Name": "Training",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
+        {
+          "Id": "dba87897-379a-4868-847b-92c89713f9ed",
+          "Name": "Data retention",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
+          "SubjectId": "9b87a370-eb2f-4db0-aab1-65b5a8846725",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
+        {
+          "Id": "0c91a488-fb73-471f-bba2-fe6c3c26cb96",
+          "Name": "Sharing policies",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
+          "SubjectId": "ecfbc271-26ff-4a40-ae36-2c08a48d6d6b",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
+        {
+          "Id": "606b94f1-952a-46cb-8ef2-76bf7765271a",
+          "Name": "Managing your permissions",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
+          "SubjectId": "9b87a370-eb2f-4db0-aab1-65b5a8846725",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
+        {
+          "Id": "c5beb7de-325c-41d1-9ec4-49724003ebc4",
+          "Name": "Best practices",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
+          "SubjectId": "56895928-9200-4ebc-abfb-a183f7c7bb6d",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        }
+      ]
+    }
+  ],
+  "Audiences": [
+    {
+      "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "Name": "End User"
+    },
+    {
+      "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
+      "Name": "Owner"
+    },
+    {
+      "Id": "304b216c-ea4d-436c-83f8-93ba1319943b",
+      "Name": "Champion"
+    },
+    {
+      "Id": "0000d91a-143e-41f3-b0db-880a5e1bf80b",
+      "Name": "Trainer"
+    },
+    {
+      "Id": "4d0089b2-83fc-4049-b4c2-5d1e34727d6b",
+      "Name": "Admin"
+    }
+  ],
+  "Sources": [
+    "Learning Hub Team",
+    "Microsoft"
+  ],
+  "Levels": [
+    {
+      "Id": "5a958086-473d-46b3-92eb-c1e09c34263c",
+      "Name": "Beginner"
+    },
+    {
+      "Id": "7e98bcb4-85bd-4b78-9823-3283dab21064",
+      "Name": "Intermediate"
+    },
+    {
+      "Id": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+      "Name": "Advanced"
+    }
+  ],
+  "StatusTag": [
+    {
+      "Id": "164d99ed-c638-4dbb-8295-781312dee721",
+      "Name": "New"
+    },
+    {
+      "Id": "88c75433-02c4-4aab-9606-900fe099ea16",
+      "Name": "Updated"
+    },
+    {
+      "Id": "83289991-44b8-4274-943a-9b8dcfcb94f9",
+      "Name": "Retiring"
+    },
+    {
+      "Id": "45d78306-16fb-4ad4-affd-5314715a0323",
+      "Name": "Retired"
+    },
+    {
+      "Id": "78d72d69-8c00-4abd-a089-806d7822b250",
+      "Name": "Beta"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+[
+  {
+    "Id": "4f031555-2a79-49d2-85e5-575463e54962",
+    "Title": "Welcome pack dummy playlist 01",
+    "Image": "images/playlists/monkey.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
+    "SubjectId": "f1b1b495-4937-477b-8acd-829ab712240d",
+    "Source": "The Learning Hub Team",
+    "CatId": "6c148f88-11d0-418c-b8c9-e0bc000b8e19",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Clearly we need more bananas please!",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+    ]
+  },
+  {
+    "Id": "4b6c010c-beb3-4452-80f1-3ec6ae02eeb8",
+    "Title": "Welcome pack dummy playlist 02",
+    "Image": "images/playlists/monkey.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
+    "SubjectId": "f1b1b495-4937-477b-8acd-829ab712240d",
+    "Source": "The Learning Hub Team",
+    "CatId": "6c148f88-11d0-418c-b8c9-e0bc000b8e19",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Clearly we need more bananas please!",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+    ]
+  },
+  {
+    "Id": "31eb779f-9adc-48f3-995c-4cf580905286",
+    "Title": "Welcome pack dummy playlist 03",
+    "Image": "images/playlists/monkey.png",
+    "LevelId": "7e98bcb4-85bd-4b78-9823-3283dab21064",
+    "AudienceId": "304b216c-ea4d-436c-83f8-93ba1319943b",
+    "TechnologyId": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
+    "SubjectId": "f1b1b495-4937-477b-8acd-829ab712240d",
+    "Source": "The Learning Hub Team",
+    "CatId": "6c148f88-11d0-418c-b8c9-e0bc000b8e19",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Clearly we need more bananas please!",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+    ]
+  },
+  {
+    "Id": "00bbacaf-1455-4312-b5f0-303bff3b4af1",
+    "Title": "Welcome pack dummy playlist 04",
+    "Image": "images/playlists/monkey.png",
+    "LevelId": "7e98bcb4-85bd-4b78-9823-3283dab21064",
+    "AudienceId": "304b216c-ea4d-436c-83f8-93ba1319943b",
+    "TechnologyId": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
+    "SubjectId": "f1b1b495-4937-477b-8acd-829ab712240d",
+    "Source": "The Learning Hub Team",
+    "CatId": "6c148f88-11d0-418c-b8c9-e0bc000b8e19",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Clearly we need more bananas please!",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+    ]
+  },
+  {
+    "Id": "ba264159-a00a-414b-ae35-e474b7a39b19",
+    "Title": "Welcome pack dummy playlist 05",
+    "Image": "images/playlists/monkey.png",
+    "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+    "AudienceId": "4d0089b2-83fc-4049-b4c2-5d1e34727d6b",
+    "TechnologyId": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
+    "SubjectId": "f1b1b495-4937-477b-8acd-829ab712240d",
+    "Source": "The Learning Hub Team",
+    "CatId": "6c148f88-11d0-418c-b8c9-e0bc000b8e19",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Clearly we need more bananas please!",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+    ]
+  },
+  {
+    "Id": "a7b3cd78-e924-4ffa-b8fa-dcc6d679f755",
+    "Title": "Welcome pack dummy playlist 06",
+    "Image": "images/playlists/monkey.png",
+    "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+    "AudienceId": "4d0089b2-83fc-4049-b4c2-5d1e34727d6b",
+    "TechnologyId": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
+    "SubjectId": "f1b1b495-4937-477b-8acd-829ab712240d",
+    "Source": "The Learning Hub Team",
+    "CatId": "6c148f88-11d0-418c-b8c9-e0bc000b8e19",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Clearly we need more bananas please!",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+    ]
+  },
+  {
+    "Id": "6266d4de-3e6a-4160-9fb0-82462ae504dd",
+    "Title": "Microsoft teams dummy playlist",
+    "Image": "images/playlists/monkey.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "87868376-aedc-4590-806b-f0a7873f1a49",
+    "SubjectId": "aae4068b-0c3d-4461-8d04-e7722ab6e7ed",
+    "Source": "The Learning Hub Team",
+    "CatId": "4914a602-d403-487f-b631-7209098eb629",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Please send more monkeys",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+    ]
+  },
+  {
+    "Id": "ee610c2b-603e-44f7-ae0d-ed636f0a0387",
+    "Title": "SharePoint Online dummy playlist",
+    "Image": "images/playlists/monkey.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "72887105-5917-443e-9c85-a4ba0dbecd76",
+    "SubjectId": "8dc29817-b406-49b8-92a4-16df9412f987",
+    "Source": "The Learning Hub Team",
+    "CatId": "1e44aa4e-3d68-4217-89c5-e08a46806d83",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  This is harder than sticks and stones",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+    ]
+  },
+  {
+    "Id": "2e7562c3-5f5b-4a0a-9d9b-ab650fe755a1",
+    "Title": "Benefits dummy playlist",
+    "Image": "images/playlists/monkey.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "7527d61b-1bf8-44d9-8adb-e0afa0fe4458",
+    "SubjectId": "efb825ea-22eb-41ac-815e-7c37f99837cc",
+    "Source": "The Learning Hub Team",
+    "CatId": "d364b403-e065-4ad7-a1a5-16ee7236c752",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Apes Together Strong",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+    ]
+  }
+]

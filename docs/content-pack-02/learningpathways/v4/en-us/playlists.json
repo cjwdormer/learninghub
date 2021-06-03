@@ -1,0 +1,124 @@
+[
+  {
+    "Id": "34cb9ae3-c5df-4c62-967e-e47493af12e5",
+    "Title": "SharePoint Online readiness dummy playlist",
+    "Image": "images/playlists/playlist-placeholder.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
+    "SubjectId": "",
+    "Source": "The Learning Hub Team",
+    "CatId": "ea15aa58-4bfc-46bd-af7e-d6b02653e805",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Clearly we need more bananas please!",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "f4785f97-2a2a-4819-a324-6c0da9998d9d",
+      "424dd2e2-17b6-407d-9e24-bec66726183b",
+      "55d12866-a226-45e4-b383-5c64872d3d15",
+      "fc3f0c7b-7d88-4f94-acdd-13cf22945414"
+    ]
+  },
+  {
+    "Id": "0bcd95c1-a663-444b-a456-797a3f0aba5f",
+    "Title": "Onedirve readiness dummy playlist",
+    "Image": "images/playlists/playlist-placeholder.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "28b91d7c-f797-44d2-a9ea-b823b3ea26a3",
+    "SubjectId": "",
+    "Source": "The Learning Hub Team",
+    "CatId": "e75240c6-bfaf-4693-8091-ac3116f7cca0",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Please send more monkeys",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+    ]
+  },
+  {
+    "Id": "9b9a7aa6-2a5d-4c5d-809c-7e3511a49c36",
+    "Title": "Training dummy playlist",
+    "Image": "images/playlists/playlist-placeholder.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
+    "SubjectId": "",
+    "Source": "The Learning Hub Team",
+    "CatId": "ae14c406-edf8-4ec1-8996-d78d5a17c661",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  This is harder than sticks and stones",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+    ]
+  },
+  {
+    "Id": "641b24a5-bc3e-4953-87aa-1a6a1b530abf",
+    "Title": "Data retention dummy playlist",
+    "Image": "images/playlists/playlist-placeholder.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
+    "SubjectId": "",
+    "Source": "The Learning Hub Team",
+    "CatId": "dba87897-379a-4868-847b-92c89713f9ed",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Apes Together Strong",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+    ]
+  },
+  {
+    "Id": "7e149198-5be7-4ef2-a9c5-12a0d52796c2",
+    "Title": "Sharing policies dummy playlist",
+    "Image": "images/playlists/playlist-placeholder.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
+    "SubjectId": "",
+    "Source": "The Learning Hub Team",
+    "CatId": "0c91a488-fb73-471f-bba2-fe6c3c26cb96",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Apes Together Strong",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+    ]
+  },
+  {
+    "Id": "641b24a5-bc3e-4953-87aa-1a6a1b530abf",
+    "Title": "Managing your permissions dummy playlist",
+    "Image": "images/playlists/playlist-placeholder.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
+    "SubjectId": "",
+    "Source": "The Learning Hub Team",
+    "CatId": "606b94f1-952a-46cb-8ef2-76bf7765271a",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Apes Together Strong",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+    ]
+  },
+  {
+    "Id": "8a4e9cf3-ef59-4087-87cb-7e902958c920",
+    "Title": "Best practices dummy playlist",
+    "Image": "images/playlists/playlist-placeholder.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
+    "SubjectId": "",
+    "Source": "The Learning Hub Team",
+    "CatId": "c5beb7de-325c-41d1-9ec4-49724003ebc4",
+    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Apes Together Strong",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+    ]
+  }
+]

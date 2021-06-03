@@ -1,0 +1,122 @@
+{
+  "Technologies": [
+    {
+      "Id": "",
+      "Name": "",
+      "Subjects": [
+        {
+          "Id": "",
+          "Name": "Guidance"
+        },
+        {
+          "Id": "",
+          "Name": "Best Practice"
+        },
+        {
+          "Id": "",
+          "Name": "Policies"
+        }
+      ]
+    },
+    {
+      "Id": "",
+      "Name": "",
+      "Subjects": [
+        {
+          "Id": "",
+          "Name": "Guidance"
+        },
+        {
+          "Id": "",
+          "Name": "Best Practice"
+        },
+        {
+          "Id": "",
+          "Name": "Policies"
+        }
+      ]
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "",
+      "Name": "",
+      "Image": "images/categories/category-placeholder.png",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Learning Hub Team",
+      "SubCategories": [
+        {
+          "Id": "",
+          "Name": "",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        }
+      ]
+    }
+  ],
+  "Audiences": [
+    {
+      "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "Name": "End User"
+    },
+    {
+      "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
+      "Name": "Owner"
+    },
+    {
+      "Id": "304b216c-ea4d-436c-83f8-93ba1319943b",
+      "Name": "Champion"
+    },
+    {
+      "Id": "0000d91a-143e-41f3-b0db-880a5e1bf80b",
+      "Name": "Trainer"
+    },
+    {
+      "Id": "4d0089b2-83fc-4049-b4c2-5d1e34727d6b",
+      "Name": "Admin"
+    }
+  ],
+  "Sources": [
+    ""
+  ],
+  "Levels": [
+    {
+      "Id": "5a958086-473d-46b3-92eb-c1e09c34263c",
+      "Name": "Beginner"
+    },
+    {
+      "Id": "7e98bcb4-85bd-4b78-9823-3283dab21064",
+      "Name": "Intermediate"
+    },
+    {
+      "Id": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+      "Name": "Advanced"
+    }
+  ],
+  "StatusTag": [
+    {
+      "Id": "164d99ed-c638-4dbb-8295-781312dee721",
+      "Name": "New"
+    },
+    {
+      "Id": "88c75433-02c4-4aab-9606-900fe099ea16",
+      "Name": "Updated"
+    },
+    {
+      "Id": "83289991-44b8-4274-943a-9b8dcfcb94f9",
+      "Name": "Retiring"
+    },
+    {
+      "Id": "45d78306-16fb-4ad4-affd-5314715a0323",
+      "Name": "Retired"
+    },
+    {
+      "Id": "78d72d69-8c00-4abd-a089-806d7822b250",
+      "Name": "Beta"
+    }
+  ]
+}

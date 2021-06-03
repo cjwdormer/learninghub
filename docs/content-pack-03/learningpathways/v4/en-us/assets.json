@@ -1,0 +1,46 @@
+[
+  {
+    "Id": "0248ad11-c30e-49a8-9351-f18ff2982820",
+    "Title": "Dummy asset 01",
+    "Description": "Dummy asset for the change owners playlist",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Demo-page-for-assets.aspx?embed=true",
+    "TechnologyId": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "b0544982-6d2b-4e28-9704-7c6d1ecbf196",
+    "Title": "Dummy asset 02",
+    "Description": "A small description for the change owners list",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Demo-page-for-assets.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "96c94e9c-4a0f-4e8e-93be-ab40356b07c9",
+    "Title": "Dummy asset 03",
+    "Description": "Dummy description for a playlist in change owners",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Demo-page-for-assets.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "18e3e044-2dc9-4f28-bd6b-66ff744f58f5",
+    "Title": "Dummy asset 04",
+    "Description": "Last small description about the change owners",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Demo-page-for-assets.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }
+]
