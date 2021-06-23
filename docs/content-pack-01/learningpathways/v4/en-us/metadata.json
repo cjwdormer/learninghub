@@ -54,7 +54,7 @@
         {
           "Id": "5c2da2ee-0f22-4797-aba3-ce50c6853b3f",
           "Name": "Welcome Pack",
-          "Image": "images/categories/folders.png",
+          "Image": "images/categories/policing-365.png",
           "TechnologyId": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
           "SubjectId": "f1b1b495-4937-477b-8acd-829ab712240d",
           "Source": "Learning Hub Team",
@@ -81,7 +81,7 @@
         {
           "Id": "fabd142c-64fc-478f-a049-0588e79ebaba",
           "Name": "Benefits",
-          "Image": "images/categories/benefits.png",
+          "Image": "images/categories/policing-365.png",
           "TechnologyId": "72887105-5917-443e-9c85-a4ba0dbecd76",
           "SubjectId": "7527d61b-1bf8-44d9-8adb-e0afa0fe4458",
           "Source": "Learning Hub Team",
