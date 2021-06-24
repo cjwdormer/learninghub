@@ -46,7 +46,7 @@
     {
       "Id": "357c3028-a097-40f3-ae82-0ea1414082ec",
       "Name": "Getting started with Policing 365",
-      "Image": "images/categories/policing-365.png",
+      "Image": "images/categories/thumbs-up-lined.png",
       "TechnologyId": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
       "SubjectId": "",
       "Source": "Learning Hub Team",
@@ -72,7 +72,7 @@
         {
           "Id": "b14a7694-ffaa-44a4-9c1e-4a12dcd47b60",
           "Name": "SharePoint Online",
-          "Image": "images/categories/policing-365.png",
+          "Image": "images/categories/thumbs-up.png",
           "TechnologyId": "72887105-5917-443e-9c85-a4ba0dbecd76",
           "SubjectId": "8dc29817-b406-49b8-92a4-16df9412f987",
           "Source": "Learning Hub Team",
