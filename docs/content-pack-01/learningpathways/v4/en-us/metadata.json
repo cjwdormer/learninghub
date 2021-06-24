@@ -46,7 +46,7 @@
     {
       "Id": "357c3028-a097-40f3-ae82-0ea1414082ec",
       "Name": "Getting started with Policing 365",
-      "Image": "images/categories/thumbs-up-lined.png",
+      "Image": "",
       "TechnologyId": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
       "SubjectId": "",
       "Source": "Learning Hub Team",
@@ -54,7 +54,7 @@
         {
           "Id": "5c2da2ee-0f22-4797-aba3-ce50c6853b3f",
           "Name": "Welcome Pack",
-          "Image": "images/categories/policing-365.png",
+          "Image": "images/categories/thumbs-up.png",
           "TechnologyId": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
           "SubjectId": "f1b1b495-4937-477b-8acd-829ab712240d",
           "Source": "Learning Hub Team",
