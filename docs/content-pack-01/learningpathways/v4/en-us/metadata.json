@@ -54,7 +54,7 @@
         {
           "Id": "5c2da2ee-0f22-4797-aba3-ce50c6853b3f",
           "Name": "Welcome Pack",
-          "Image": "images/categories/category-placeholder.png",
+          "Image": "images/categories/category_welcome_pack_280x200.png",
           "TechnologyId": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
           "SubjectId": "f1b1b495-4937-477b-8acd-829ab712240d",
           "Source": "Learning Hub Team",
@@ -63,7 +63,7 @@
         {
           "Id": "2c4d6282-1ed4-40c9-a3c0-79aea6852e8b",
           "Name": "Microsoft Teams",
-          "Image": "images/categories/category-placeholder.png",
+          "Image": "images/categories/category_teams_280x200.png",
           "TechnologyId": "87868376-aedc-4590-806b-f0a7873f1a49",
           "SubjectId": "aae4068b-0c3d-4461-8d04-e7722ab6e7ed",
           "Source":"Learning Hub Team",
@@ -72,7 +72,7 @@
         {
           "Id": "b14a7694-ffaa-44a4-9c1e-4a12dcd47b60",
           "Name": "SharePoint Online",
-          "Image": "images/categories/category-placeholder.png",
+          "Image": "images/categories/category_sharepoint_280x200.png",
           "TechnologyId": "72887105-5917-443e-9c85-a4ba0dbecd76",
           "SubjectId": "8dc29817-b406-49b8-92a4-16df9412f987",
           "Source": "Learning Hub Team",
@@ -81,7 +81,7 @@
         {
           "Id": "fabd142c-64fc-478f-a049-0588e79ebaba",
           "Name": "Benefits",
-          "Image": "images/categories/category-placeholder.png",
+          "Image": "images/categories/category_benefits_280x200.png",
           "TechnologyId": "72887105-5917-443e-9c85-a4ba0dbecd76",
           "SubjectId": "7527d61b-1bf8-44d9-8adb-e0afa0fe4458",
           "Source": "Learning Hub Team",
