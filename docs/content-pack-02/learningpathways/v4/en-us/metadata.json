@@ -96,7 +96,7 @@
           "Name": "Data retention",
           "Image": "images/categories/category-placeholder.png",
           "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
-          "SubjectId": "9b87a370-eb2f-4db0-aab1-65b5a8846725",
+          "SubjectId": "",
           "Source": "Learning Hub Team",
           "SubCategories": []
         },
@@ -105,7 +105,7 @@
           "Name": "Sharing policies",
           "Image": "images/categories/category-placeholder.png",
           "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
-          "SubjectId": "ecfbc271-26ff-4a40-ae36-2c08a48d6d6b",
+          "SubjectId": "",
           "Source": "Learning Hub Team",
           "SubCategories": []
         },
@@ -114,7 +114,7 @@
           "Name": "Managing your permissions",
           "Image": "images/categories/category-placeholder.png",
           "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
-          "SubjectId": "9b87a370-eb2f-4db0-aab1-65b5a8846725",
+          "SubjectId": "",
           "Source": "Learning Hub Team",
           "SubCategories": []
         },
@@ -123,7 +123,7 @@
           "Name": "Best practices",
           "Image": "images/categories/category-placeholder.png",
           "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
-          "SubjectId": "56895928-9200-4ebc-abfb-a183f7c7bb6d",
+          "SubjectId": "",
           "Source": "Learning Hub Team",
           "SubCategories": []
         }
