@@ -19,6 +19,186 @@
       ]
     },
     {
+      "Id": "d85d8c5f-1496-49ad-a0a8-199dc7f7a2a8",
+      "Name": "Outlook",
+      "Subjects": [
+        {
+          "Id": "bb0e1827-26e4-467b-92ff-9deca3bc0ae0",
+          "Name": "Guidance"
+        },
+        {
+          "Id": "2b349d9d-0471-42d5-affc-9986023caab9",
+          "Name": "Best Practice"
+        },
+        {
+          "Id": "d770bcdd-4d3d-4583-8c15-73c30759a21f",
+          "Name": "Policies"
+        }
+      ]
+    },
+    {
+      "Id": "810a5566-a2f3-4117-8f86-402f5bc3aaff",
+      "Name": "SharePoint",
+      "Subjects": [
+        {
+          "Id": "115ecac8-4529-474e-96cf-b3e9535947b7",
+          "Name": "Guidance"
+        },
+        {
+          "Id": "3d5cc4b6-2c90-46d6-9ff0-0fb9a0f36d66",
+          "Name": "Best Practice"
+        },
+        {
+          "Id": "bd979c50-c1a2-4430-8667-dc3fb5008a79",
+          "Name": "Policies"
+        }
+      ]
+    },
+    {
+      "Id": "2dc89061-338b-4942-a24a-600175caf5c3",
+      "Name": "OneDrive",
+      "Subjects": [
+        {
+          "Id": "d4429eec-b77f-4a7e-9063-d76d10f3e039",
+          "Name": "Guidance"
+        },
+        {
+          "Id": "6ca6319f-b3f5-4188-a499-78a7285d2f0d",
+          "Name": "Best Practice"
+        },
+        {
+          "Id": "41f9a6b2-6ee8-40e0-b8c7-b30415adac20",
+          "Name": "Policies"
+        }
+      ]
+    },
+    {
+      "Id": "6f2a4212-bbf7-474d-8d93-48e463d60c50",
+      "Name": "Forms",
+      "Subjects": [
+        {
+          "Id": "ac933126-9670-403b-971b-61610758a767",
+          "Name": "Guidance"
+        },
+        {
+          "Id": "c6d52b39-3183-46c1-a67c-59c151dda1e1",
+          "Name": "Best Practice"
+        },
+        {
+          "Id": "916bc6d5-70ae-43e0-aedd-45cdf5da830e",
+          "Name": "Policies"
+        }
+      ]
+    },
+    {
+      "Id": "ab03e34e-5703-4956-9f7a-4f15216d15bc",
+      "Name": "Task by Planner and To Do",
+      "Subjects": [
+        {
+          "Id": "360091c4-bb6a-4caf-9bcc-5b7091301bfe",
+          "Name": "Guidance"
+        },
+        {
+          "Id": "0e7b72cf-98a2-4b22-92a1-8ccc2e937d7f",
+          "Name": "Best Practice"
+        },
+        {
+          "Id": "fdea03ca-6b6d-42e1-9b8c-6b9585edb45b",
+          "Name": "Policies"
+        }
+      ]
+    },
+    {
+      "Id": "4b472d56-0e26-4e9a-9808-501acb3a38e8",
+      "Name": "OneNote",
+      "Subjects": [
+        {
+          "Id": "488781cc-a0f0-46f5-952f-2b1be4a6016b",
+          "Name": "Guidance"
+        },
+        {
+          "Id": "ef9511e8-2171-4fc8-8104-da61f089de14",
+          "Name": "Best Practice"
+        },
+        {
+          "Id": "56eda041-6c35-4e8d-bf71-5499bbeb5286",
+          "Name": "Policies"
+        }
+      ]
+    },
+    {
+      "Id": "3a90104f-82b6-4bee-889a-6e3508ea0d84",
+      "Name": "OneNote Class Notebook",
+      "Subjects": [
+        {
+          "Id": "b5b823a5-8add-4fe7-992a-8ef7f2211bdc",
+          "Name": "Guidance"
+        },
+        {
+          "Id": "f1ad7c95-21ab-42e9-90c3-6bd359567790",
+          "Name": "Best Practice"
+        },
+        {
+          "Id": "14526f89-d5ae-4e1b-9e72-da2a94392e51",
+          "Name": "Policies"
+        }
+      ]
+    },
+    {
+      "Id": "a775a207-f076-4cd0-a4c4-1f7ff4b0200d",
+      "Name": "Stream",
+      "Subjects": [
+        {
+          "Id": "75dd664a-0f33-44dd-b512-682edf7ff7cc",
+          "Name": "Guidance"
+        },
+        {
+          "Id": "580b46c5-b4de-4386-9528-93fc12ead3de",
+          "Name": "Best Practice"
+        },
+        {
+          "Id": "98a8298d-a0e7-4761-bc49-44c5975906e0",
+          "Name": "Policies"
+        }
+      ]
+    },
+    {
+      "Id": "4fcd592a-4dfe-40a9-a9fa-62506405ceaf",
+      "Name": "Sway",
+      "Subjects": [
+        {
+          "Id": "4b42dcc7-c857-4b91-b940-2605aba4d946",
+          "Name": "Guidance"
+        },
+        {
+          "Id": "4864fcec-6ecf-4dac-946a-2d2df56e4d42",
+          "Name": "Best Practice"
+        },
+        {
+          "Id": "b1e434ee-a5fd-4bfc-a5bd-486a7acc7d4c",
+          "Name": "Policies"
+        }
+      ]
+    },
+    {
+      "Id": "ef462ba0-d356-4a86-9f4d-fbe8214a8232",
+      "Name": "Whiteboard",
+      "Subjects": [
+        {
+          "Id": "14f72497-ae6b-478c-9511-1e7c2bcd182c",
+          "Name": "Guidance"
+        },
+        {
+          "Id": "a1ab1c16-6f5e-491e-93bb-48d6515be5f1",
+          "Name": "Best Practice"
+        },
+        {
+          "Id": "2a5217bd-03dc-49a8-a5b9-2665b2d26d3d",
+          "Name": "Policies"
+        }
+      ]
+    },
+    {
       "Id": "87868376-aedc-4590-806b-f0a7873f1a49",
       "Name": "Teams",
       "Subjects": [
@@ -56,7 +236,7 @@
           "Name": "Welcome Pack",
           "Image": "images/categories/category_welcome_pack_280x200.png",
           "TechnologyId": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
-          "SubjectId": "f1b1b495-4937-477b-8acd-829ab712240d",
+          "SubjectId": "",
           "Source": "Learning Hub Team",
           "SubCategories": []
         },
@@ -65,7 +245,7 @@
           "Name": "Microsoft Teams",
           "Image": "images/categories/category_teams_280x200.png",
           "TechnologyId": "87868376-aedc-4590-806b-f0a7873f1a49",
-          "SubjectId": "aae4068b-0c3d-4461-8d04-e7722ab6e7ed",
+          "SubjectId": "",
           "Source":"Learning Hub Team",
           "SubCategories":[]
         },
@@ -74,7 +254,7 @@
           "Name": "SharePoint Online",
           "Image": "images/categories/category_sharepoint_280x200.png",
           "TechnologyId": "72887105-5917-443e-9c85-a4ba0dbecd76",
-          "SubjectId": "8dc29817-b406-49b8-92a4-16df9412f987",
+          "SubjectId": "",
           "Source": "Learning Hub Team",
           "SubCategories":[]
         },
@@ -83,7 +263,7 @@
           "Name": "Benefits",
           "Image": "images/categories/category_benefits_280x200.png",
           "TechnologyId": "72887105-5917-443e-9c85-a4ba0dbecd76",
-          "SubjectId": "7527d61b-1bf8-44d9-8adb-e0afa0fe4458",
+          "SubjectId": "",
           "Source": "Learning Hub Team",
           "SubCategories":[]
         }
