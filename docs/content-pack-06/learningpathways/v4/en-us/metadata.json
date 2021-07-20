@@ -1,49 +1,215 @@
 {
   "Technologies": [
     {
-      "Id": "",
-      "Name": "",
+      "Id": "68c124be-00d8-4177-aae5-4ad3381fc838",
+      "Name": "Training Packages",
       "Subjects": [
         {
-          "Id": "",
-          "Name": "Guidance"
+          "Id": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "Name": "Basic functionality"
         },
         {
-          "Id": "",
-          "Name": "Best Practice"
+          "Id": "12dbb6ea-5043-4ea7-af2a-6036cc1b9e74",
+          "Name": "Enhanced package"
         },
         {
-          "Id": "",
-          "Name": "Policies"
+          "Id": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
+          "Name": "Site Owner package"
         }
       ]
     },
     {
+      "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+      "Name": "Excel",
+      "Subjects": []
+    },
+    {
+      "Id": "",
+      "Name": "Forms",
+      "Subjects": []
+    },
+    {
+      "Id": "",
+      "Name": "M365 Basics",
+      "Subjects": []
+    },
+    {
+      "Id": "",
+      "Name": "Teams",
+      "Subjects": []
+    },
+    {
+      "Id": "",
+      "Name": "OneDrive",
+      "Subjects": []
+    },
+    {
+      "Id": "",
+      "Name": "OneNote",
+      "Subjects": []
+    },
+    {
+      "Id": "",
+      "Name": "Outlook",
+      "Subjects": []
+    },
+    {
       "Id": "",
       "Name": "",
-      "Subjects": [
-        {
-          "Id": "",
-          "Name": "Guidance"
-        },
-        {
-          "Id": "",
-          "Name": "Best Practice"
-        },
-        {
-          "Id": "",
-          "Name": "Policies"
-        }
-      ]
+      "Subjects": []
+    },
+    {
+      "Id": "",
+      "Name": "Planner",
+      "Subjects": []
+    },
+    {
+      "Id": "",
+      "Name": "PowerPoint",
+      "Subjects": []
+    },
+    {
+      "Id": "",
+      "Name": "SharePoint",
+      "Subjects": []
+    },
+    {
+      "Id": "",
+      "Name": "Word",
+      "Subjects": []
+    },
+    {
+      "Id": "",
+      "Name": "",
+      "Subjects": []
     }
   ],
   "Categories": [
     {
       "Id": "",
-      "Name": "",
+      "Name": "Basic functionality",
       "Image": "images/categories/category-placeholder.png",
-      "TechnologyId": "",
-      "SubjectId": "",
+      "TechnologyId": "68c124be-00d8-4177-aae5-4ad3381fc838",
+      "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+      "Source": "Learning Hub Team",
+      "SubCategories": [
+        {
+          "Id": "85c785c2-c873-4483-9728-64a367fee3f1",
+          "Name": "Excel",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
+        {
+          "Id": "",
+          "Name": "",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
+        {
+          "Id": "",
+          "Name": "",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
+        {
+          "Id": "",
+          "Name": "",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
+        {
+          "Id": "",
+          "Name": "",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
+        {
+          "Id": "",
+          "Name": "",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
+        {
+          "Id": "",
+          "Name": "",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
+        {
+          "Id": "",
+          "Name": "",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
+        {
+          "Id": "",
+          "Name": "",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
+        {
+          "Id": "",
+          "Name": "",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "",
+      "Name": "Enhanced package",
+      "Image": "images/categories/category-placeholder.png",
+      "TechnologyId": "68c124be-00d8-4177-aae5-4ad3381fc838",
+      "SubjectId": "12dbb6ea-5043-4ea7-af2a-6036cc1b9e74",
+      "Source": "Learning Hub Team",
+      "SubCategories": [
+        {
+          "Id": "",
+          "Name": "",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "",
+      "Name": "Site Owner package",
+      "Image": "images/categories/category-placeholder.png",
+      "TechnologyId": "68c124be-00d8-4177-aae5-4ad3381fc838",
+      "SubjectId": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
       "Source": "Learning Hub Team",
       "SubCategories": [
         {
@@ -60,24 +226,28 @@
   ],
   "Audiences": [
     {
-      "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "Id": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
       "Name": "End User"
     },
     {
       "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
-      "Name": "Owner"
+      "Name": "Owners"
     },
     {
       "Id": "304b216c-ea4d-436c-83f8-93ba1319943b",
-      "Name": "Champion"
+      "Name": "Champions"
     },
     {
       "Id": "0000d91a-143e-41f3-b0db-880a5e1bf80b",
-      "Name": "Trainer"
+      "Name": "Trainers"
     },
     {
       "Id": "4d0089b2-83fc-4049-b4c2-5d1e34727d6b",
       "Name": "Admin"
+    },
+    {
+      "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "Name": "All"
     }
   ],
   "Sources": [
