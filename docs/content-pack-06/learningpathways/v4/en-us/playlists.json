@@ -1,70 +1,70 @@
 [
   {
-    "Id": "",
-    "Title": "Dummy playlist",
-    "Image": "images/playlists/playlist-placeholder.png",
-    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "Id": "842fb550-07cb-42d1-9a9f-c55789efed57",
+    "Title": "Intro to Excel",
+    "Image": "images/playlists/welcome_to_excel.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-    "TechnologyId": "",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
     "SubjectId": "",
-    "Source": "The Learning Hub Team",
-    "CatId": "6c148f88-11d0-418c-b8c9-e0bc000b8e19",
-    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Clearly we need more bananas please!",
+    "Source": "Microsoft",
+    "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
+    "Description": "Create a new workbook or insert a worksheet. Learn how to use Excel as your calculator or autofill data in cells.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      ""
+      "82e9eab2-2e4e-463a-baa5-669b6c8ac543",
+      "861d97cb-3b33-4978-92e4-9446dc19b8da",
+      "48580e26-5b6d-48d3-afb5-317e18006dcb",
+      "eda1729c-21eb-4bab-970b-fbb6da8724f3",
+      "fe861590-87bc-4a54-be5d-8bf03db07093",
+      "27100426-e111-4f91-8bb4-c46d609dc8ca",
+      "c6c2b9ce-6fdc-4b81-be75-2f295126e8fd"
     ]
   },
   {
-    "Id": "",
-    "Title": "Dummy playlist",
-    "Image": "images/playlists/playlist-placeholder.png",
-    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "Id": "7450f58a-517f-48ae-bace-248346e52275",
+    "Title": "Rows & columns",
+    "Image": "images/playlists/rows_and_columns.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-    "TechnologyId": "",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
     "SubjectId": "",
-    "Source": "The Learning Hub Team",
-    "CatId": "",
-    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Please send more monkeys",
+    "Source": "Microsoft",
+    "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
+    "Description": "Add columns, rows, or cells to an Excel worksheet or delete them. Freeze panes, hide or show rows and columns or filter for unique values.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      ""
+      "06e7419f-fdea-4f32-bc2b-f73088410881",
+      "32bae4a3-7bc2-49a7-9cff-22c399ab09e4",
+      "94708bae-df5c-4c3b-888c-621cf5d4bc94",
+      "95146525-ce4f-4ff6-a118-c0724deb1a98",
+      "36ffe8ad-b6f6-4cfb-a55e-da3f5cd40d24",
+      "0edb925e-2af7-47fb-895a-28a07d5b73d4",
+      "8c3fb3c7-8e61-415f-9663-b58055f252ed"
     ]
   },
   {
-    "Id": "",
-    "Title": "SharePoint Online dummy playlist",
-    "Image": "images/playlists/playlist-placeholder.png",
-    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "Id": "59b01879-ea2a-4f76-b2e4-e437fc45c61d",
+    "Title": "Cells",
+    "Image": "images/playlists/cells.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-    "TechnologyId": "",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
     "SubjectId": "",
-    "Source": "The Learning Hub Team",
-    "CatId": "",
-    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  This is harder than sticks and stones",
+    "Source": "Microsoft",
+    "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
+    "Description": "Cut, Copy, and Paste to move or copy cell contents. Resize a table, column, or row, Learn how to merge cells, validate data or import/export text.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      ""
-    ]
-  },
-  {
-    "Id": "",
-    "Title": "Benefits dummy playlist",
-    "Image": "images/playlists/playlist-placeholder.png",
-    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
-    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "The Learning Hub Team",
-    "CatId": "",
-    "Description": "Oh dear looks like you have stumbled across a part that isn't quite ready...  Apes Together Strong",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      ""
+      "0f8afcb1-5cce-45b6-856d-ba3195adaa9e",
+      "03cbab80-5182-4b3d-b93b-ae199c51b505",
+      "1123fcbc-f571-45fb-a74a-316f09b3fe29",
+      "9d7d2acb-7071-4d9f-bf22-35303d7cc5f8",
+      "82cfacc1-46ed-400f-863d-1ee0400f5fa7",
+      "b24c6835-466c-4b17-a921-3f4d6fd07a7c"
     ]
   }
-]
+  ]
