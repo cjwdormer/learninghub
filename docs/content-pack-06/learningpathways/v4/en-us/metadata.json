@@ -55,11 +55,6 @@
     },
     {
       "Id": "",
-      "Name": "",
-      "Subjects": []
-    },
-    {
-      "Id": "",
       "Name": "Planner",
       "Subjects": []
     },
@@ -103,83 +98,83 @@
           "SubCategories": []
         },
         {
-          "Id": "",
-          "Name": "",
+          "Id": "0afc3a9f-d647-4051-b06c-d1aeffa4ac06",
+          "Name": "Forms",
           "Image": "images/categories/category-placeholder.png",
           "TechnologyId": "",
-          "SubjectId": "",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Learning Hub Team",
           "SubCategories": []
         },
         {
-          "Id": "",
-          "Name": "",
+          "Id": "c86043b9-d419-4829-be46-4592b976910c",
+          "Name": "M365 Basics",
           "Image": "images/categories/category-placeholder.png",
           "TechnologyId": "",
-          "SubjectId": "",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Learning Hub Team",
           "SubCategories": []
         },
         {
-          "Id": "",
-          "Name": "",
+          "Id": "565034d2-44ec-4168-8c1e-a1f615bbf8a1",
+          "Name": "Teams",
           "Image": "images/categories/category-placeholder.png",
           "TechnologyId": "",
-          "SubjectId": "",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Learning Hub Team",
           "SubCategories": []
         },
         {
-          "Id": "",
-          "Name": "",
+          "Id": "622c3ab9-fe33-43d3-8ef5-f57b78753f54",
+          "Name": "OneDrive",
           "Image": "images/categories/category-placeholder.png",
           "TechnologyId": "",
-          "SubjectId": "",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Learning Hub Team",
           "SubCategories": []
         },
         {
-          "Id": "",
-          "Name": "",
+          "Id": "857a0180-bb1b-4f7f-afd1-7b6f26e94ec7",
+          "Name": "OneNote",
           "Image": "images/categories/category-placeholder.png",
           "TechnologyId": "",
-          "SubjectId": "",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Learning Hub Team",
           "SubCategories": []
         },
         {
-          "Id": "",
-          "Name": "",
+          "Id": "b7351080-db3c-49f6-b406-b6759f3e0a7f",
+          "Name": "Outlook",
           "Image": "images/categories/category-placeholder.png",
           "TechnologyId": "",
-          "SubjectId": "",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Learning Hub Team",
           "SubCategories": []
         },
         {
-          "Id": "",
-          "Name": "",
+          "Id": "4cd19581-6909-49fa-8000-ed260a9368c4",
+          "Name": "Planner",
           "Image": "images/categories/category-placeholder.png",
           "TechnologyId": "",
-          "SubjectId": "",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Learning Hub Team",
           "SubCategories": []
         },
         {
-          "Id": "",
-          "Name": "",
+          "Id": "83cc2cce-4234-4c28-8cc1-3493fcb7d53e",
+          "Name": "PowerPoint",
           "Image": "images/categories/category-placeholder.png",
           "TechnologyId": "",
-          "SubjectId": "",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Learning Hub Team",
           "SubCategories": []
         },
         {
-          "Id": "",
-          "Name": "",
+          "Id": "783ee818-e667-4b06-b478-531f04998919",
+          "Name": "SharePoint",
           "Image": "images/categories/category-placeholder.png",
           "TechnologyId": "",
-          "SubjectId": "",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Learning Hub Team",
           "SubCategories": []
         }
@@ -193,6 +188,15 @@
       "SubjectId": "12dbb6ea-5043-4ea7-af2a-6036cc1b9e74",
       "Source": "Learning Hub Team",
       "SubCategories": [
+        {
+          "Id": "85c785c2-c873-4483-9728-64a367fee3f1",
+          "Name": "Excel",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+          "SubjectId": "12dbb6ea-5043-4ea7-af2a-6036cc1b9e74",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
         {
           "Id": "",
           "Name": "",
