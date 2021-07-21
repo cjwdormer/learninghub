@@ -67,7 +67,6 @@
       "b24c6835-466c-4b17-a921-3f4d6fd07a7c"
     ]
   },
-  {"COMMENT": "TEAMS PLAYLISTS START"},
   {
     "Id": "bc9d8a0a-58f1-42cc-bdcf-9ee10b73ba24",
     "Title": "Intro to Microsoft Teams",
@@ -184,6 +183,5 @@
       "84be203b-a15b-4035-ae34-364440b70026",
       "f44bd700-38dc-4838-87af-a6e6c3fe3998"
     ]
-  },
-  {"COMMENT": "TEAMS PLAYLISTS END"}
+  }
   ]
