@@ -183,5 +183,24 @@
       "84be203b-a15b-4035-ae34-364440b70026",
       "f44bd700-38dc-4838-87af-a6e6c3fe3998"
     ]
+  },
+  {
+    "Id": "f007841f-fde2-463c-8043-035084c00ba5",
+    "Title": "Share and Sync with OneDrive",
+    "Image": "images/playlists/onedrive_share_and_sync.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "8e068419-be9e-4a9b-8cc2-a4463df73d8b",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "622c3ab9-fe33-43d3-8ef5-f57b78753f54",
+    "Description": "Use OneDrive to share files, control viewing and editing, and work together at the same time",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "72f26d6c-bf9e-432c-8b96-e3c2437f5b65",
+      "3b8246e0-cc3c-4ae7-b4e1-4b4b37d27f68",
+      "62e8d748-7877-420f-b600-24b56562aa70"
+    ]
   }
   ]
