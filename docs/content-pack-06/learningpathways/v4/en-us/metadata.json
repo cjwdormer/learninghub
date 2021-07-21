@@ -81,7 +81,7 @@
   ],
   "Categories": [
     {
-      "Id": "",
+      "Id": "365fc5e8-1965-4cc1-affe-033e4b5d99ab",
       "Name": "Basic functionality",
       "Image": "images/categories/category-placeholder.png",
       "TechnologyId": "68c124be-00d8-4177-aae5-4ad3381fc838",
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "Id": "",
+      "Id": "5c73b5c4-0ffb-4d8d-92e2-48f1a7c20cfa",
       "Name": "Enhanced package",
       "Image": "images/categories/category-placeholder.png",
       "TechnologyId": "68c124be-00d8-4177-aae5-4ad3381fc838",
@@ -189,13 +189,12 @@
       "Source": "Learning Hub Team",
       "SubCategories": [
         {
-          "Id": "",
-          "Name": "Basic Training",
+          "Id": "56bb7d3e-32f6-4068-bb01-8ab9c62cc63e",
+          "Name": "Basic functionality",
           "Image": "images/categories/category-placeholder.png",
           "TechnologyId": "68c124be-00d8-4177-aae5-4ad3381fc838",
           "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Learning Hub Team",
-          "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/training-packages/Basic-functionality.aspx",
           "SubCategories": []
         },
         {
