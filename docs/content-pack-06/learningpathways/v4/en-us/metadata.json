@@ -39,7 +39,7 @@
       "Subjects": []
     },
     {
-      "Id": "",
+      "Id": "452e503b-bafb-4023-b00d-b6d9b1701596",
       "Name": "OneDrive",
       "Subjects": []
     },
@@ -127,8 +127,8 @@
         {
           "Id": "622c3ab9-fe33-43d3-8ef5-f57b78753f54",
           "Name": "OneDrive",
-          "Image": "images/categories/category-placeholder.png",
-          "TechnologyId": "",
+          "Image": "images/categories/onedrive.png",
+          "TechnologyId": "452e503b-bafb-4023-b00d-b6d9b1701596",
           "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Microsoft",
           "SubCategories": []
