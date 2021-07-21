@@ -449,5 +449,38 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "72f26d6c-bf9e-432c-8b96-e3c2437f5b65",
+    "Title": "Share files and folders",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/72f26d6c-bf9e-432c-8b96-e3c2437f5b65?embed=true",
+    "TechnologyId": "8e068419-be9e-4a9b-8cc2-a4463df73d8b",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "3b8246e0-cc3c-4ae7-b4e1-4b4b37d27f68",
+    "Title": "Sync OneDrive files and folders",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/3b8246e0-cc3c-4ae7-b4e1-4b4b37d27f68?embed=true",
+    "TechnologyId": "8e068419-be9e-4a9b-8cc2-a4463df73d8b",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "62e8d748-7877-420f-b600-24b56562aa70",
+    "Title": "Sync files with OneDrive Files on Demand",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/62e8d748-7877-420f-b600-24b56562aa70?embed=true",
+    "TechnologyId": "8e068419-be9e-4a9b-8cc2-a4463df73d8b",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
 ]
