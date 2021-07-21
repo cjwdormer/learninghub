@@ -190,7 +190,7 @@
     "Image": "images/playlists/onedrive_share_and_sync.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "8e068419-be9e-4a9b-8cc2-a4463df73d8b",
+    "TechnologyId": "452e503b-bafb-4023-b00d-b6d9b1701596",
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "622c3ab9-fe33-43d3-8ef5-f57b78753f54",
@@ -201,6 +201,116 @@
       "72f26d6c-bf9e-432c-8b96-e3c2437f5b65",
       "3b8246e0-cc3c-4ae7-b4e1-4b4b37d27f68",
       "62e8d748-7877-420f-b600-24b56562aa70"
+    ]
+  },
+  {
+    "Id": "55d81409-752a-4bd8-8c2b-cfc937359358",
+    "Title": "Intro to OneNote",
+    "Image": "images/playlists/intro_to_onenote.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "4ba51921-475f-481d-8bc3-c9b0f658342c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "857a0180-bb1b-4f7f-afd1-7b6f26e94ec7",
+    "Description": "With OneNote, you can type notes or record audio, sketch or write ideas, add a picture, find notes, organize pages into sections and sections into notebooks, and share notebooks to view and contribute together. Watch this Intro to OneNote overview video and then learn how to sign in, add a new page or section, rename a page or section, open a different notebook, and customize OneNote.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "1b7c6171-61c6-4157-bad5-8480ae8f54a1",
+      "478895de-5cda-4e15-bd24-f6b338d4addf"
+    ]
+  },
+  {
+    "Id": "b63ab88a-2478-44a0-80a9-661849142f29",
+    "Title": "Take notes with OneNote",
+    "Image": "images/playlists/take_notes.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "4ba51921-475f-481d-8bc3-c9b0f658342c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "857a0180-bb1b-4f7f-afd1-7b6f26e94ec7",
+    "Description": "Take notes the way you want, insert pictures and files, and create more room in your notebook.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "8ee7e122-c284-4864-a683-dfc407dbef10",
+      "705a4818-8534-43e6-ab44-5d4af5eb87f8",
+      "3a8cca87-8794-4495-928f-dd0843778653"
+    ]
+  },
+  {
+    "Id": "8c0e0a94-ac56-4ed8-a385-caea31145761",
+    "Title": "Format notes with OneNote",
+    "Image": "images/playlists/format_notes.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "4ba51921-475f-481d-8bc3-c9b0f658342c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "857a0180-bb1b-4f7f-afd1-7b6f26e94ec7",
+    "Description": "Format notes, pages, and tables to make them look the way you want",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "918472c6-10d8-46f5-a2f1-fed68ca17e39",
+      "ec3f81ec-814c-4c50-be0d-35a0c3a49db1",
+      "774739fa-66f3-4bc8-b7e2-d2303ba71962"
+    ]
+  },
+  {
+    "Id": "17a6d04a-e893-4b67-932f-529f70868150",
+    "Title": "Draw and sketch with OneNote",
+    "Image": "images/playlists/draw_and_sketch.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "4ba51921-475f-481d-8bc3-c9b0f658342c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "857a0180-bb1b-4f7f-afd1-7b6f26e94ec7",
+    "Description": "Draw or sketch in OneNote to bring your notes to life",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "62e5c64c-5903-4622-a014-e1228c298f19",
+      "86c38f79-c295-495f-87c0-dc41d0d2b8ab"
+    ]
+  },
+  {
+    "Id": "352e7758-5888-40c5-b765-edc83d7c64b3",
+    "Title": "Stay organized with OneNote",
+    "Image": "images/playlists/stay_organized.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "4ba51921-475f-481d-8bc3-c9b0f658342c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "857a0180-bb1b-4f7f-afd1-7b6f26e94ec7",
+    "Description": "To stay organized with OneNote, learn how to search for notes, narrow the search, and organize your notebooks. See how to show navigation panes, move a page from one section to another, copy a page to another section or notebook, and move or copy a section.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "e10883b2-09a5-49de-8f9b-71605a100504",
+      "ff0d5f04-532d-43e6-835a-82c5755374cb"
+    ]
+  },
+  {
+    "Id": "30190ee7-5d18-4c8c-9104-42b06388bee7",
+    "Title": "Share and sync with OneNote",
+    "Image": "images/playlists/share_and_sync.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "4ba51921-475f-481d-8bc3-c9b0f658342c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "857a0180-bb1b-4f7f-afd1-7b6f26e94ec7",
+    "Description": "Share your notes with others, and password protect private notes",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "8264e361-d7a6-4f82-a45b-b9c618a3c5ce",
+      "8ce0993b-6169-4f1f-b228-19fc78a6ce4e"
     ]
   }
   ]
