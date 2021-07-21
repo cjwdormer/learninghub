@@ -189,21 +189,13 @@
       "Source": "Learning Hub Team",
       "SubCategories": [
         {
-          "Id": "85c785c2-c873-4483-9728-64a367fee3f1",
-          "Name": "Excel",
-          "Image": "images/categories/excel.png",
-          "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
-          "SubjectId": "12dbb6ea-5043-4ea7-af2a-6036cc1b9e74",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "565034d2-44ec-4168-8c1e-a1f615bbf8a1",
-          "Name": "Microsoft Teams",
-          "Image": "images/categories/teams.png",
-          "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+          "Id": "",
+          "Name": "Basic Training",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "68c124be-00d8-4177-aae5-4ad3381fc838",
           "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
-          "Source": "Microsoft",
+          "Source": "Learning Hub Team",
+          "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/training-packages/Basic-functionality.aspx",
           "SubCategories": []
         },
         {
