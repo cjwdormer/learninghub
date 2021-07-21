@@ -189,15 +189,6 @@
       "Source": "Learning Hub Team",
       "SubCategories": [
         {
-          "Id": "56bb7d3e-32f6-4068-bb01-8ab9c62cc63e",
-          "Name": "Basic functionality",
-          "Image": "images/categories/category-placeholder.png",
-          "TechnologyId": "68c124be-00d8-4177-aae5-4ad3381fc838",
-          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
-          "Source": "Learning Hub Team",
-          "SubCategories": []
-        },
-        {
           "Id": "",
           "Name": "",
           "Image": "images/categories/category-placeholder.png",
