@@ -219,7 +219,6 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
-  {"COMMENT": "TEAMS PLAYLISTS START"},
   {
     "Id": "062f6252-5feb-4b80-a197-d9dd383aa31c",
     "Title": "What is Microsoft Teams?",
@@ -450,6 +449,5 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
-  },
-  {"COMMENT": "TEAMS PLAYLISTS END"}
+  }
 ]
