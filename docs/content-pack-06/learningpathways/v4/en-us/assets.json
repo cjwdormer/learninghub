@@ -75,5 +75,148 @@
     "Source": "Microsoft",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
+  },
+  {
+    "Id": "06e7419f-fdea-4f32-bc2b-f73088410881",
+    "Title": "Insert or delete rows or columns",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/7450f58a-517f-48ae-bace-248346e52275?embed=true",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "32bae4a3-7bc2-49a7-9cff-22c399ab09e4",
+    "Title": "Select cell contents in Excel",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/23f64223-2b6b-453a-8688-248355f10fa9?embed=true",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "94708bae-df5c-4c3b-888c-621cf5d4bc94",
+    "Title": "Freeze columns or rows",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/94708bae-df5c-4c3b-888c-621cf5d4bc94?embed=true",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "95146525-ce4f-4ff6-a118-c0724deb1a98",
+    "Title": "Hide or show rows or columns",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/659c2cad-802e-44ee-a614-dde8443579f8?embed=true",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
+    "StatusNote": ""
+  },
+  {
+    "Id": "36ffe8ad-b6f6-4cfb-a55e-da3f5cd40d24",
+    "Title": "Filter for unique values or remove duplicate values",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/ccf664b0-81d6-449b-bbe1-8daaec1e83c2?embed=true",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "0edb925e-2af7-47fb-895a-28a07d5b73d4",
+    "Title": "Split data into different columns",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/0edb925e-2af7-47fb-895a-28a07d5b73d4?embed=true",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "8c3fb3c7-8e61-415f-9663-b58055f252ed",
+    "Title": "Create a list of sequential dates",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/aa1c0fa7-c76a-4762-8bc9-46f1691defec?embed=true",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "0f8afcb1-5cce-45b6-856d-ba3195adaa9e",
+    "Title": "Move or copy cells and cell contents",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/803d65eb-6a3e-4534-8c6f-ff12d1c4139e?embed=true",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "03cbab80-5182-4b3d-b93b-ae199c51b505",
+    "Title": "Change the column width or row height",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/4c0b8edc-4fb6-4af0-9374-7a953f48527b?embed=true",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "1123fcbc-f571-45fb-a74a-316f09b3fe29",
+    "Title": "Find or replace text and numbers on a worksheet",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/0e304ca5-ecef-4808-b90f-fdb42f892e90?embed=true",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "9d7d2acb-7071-4d9f-bf22-35303d7cc5f8",
+    "Title": "Merge and unmerge cells",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/0ab9aabe-ce0a-4869-ba57-cce6d69144d2?embed=true",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "82cfacc1-46ed-400f-863d-1ee0400f5fa7",
+    "Title": "Validate cell data",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/82cfacc1-46ed-400f-863d-1ee0400f5fa7?embed=true",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "b24c6835-466c-4b17-a921-3f4d6fd07a7c",
+    "Title": "Import or export text",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/5250ac4c-663c-47ce-937b-339e391393ba?embed=true",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
 ]
