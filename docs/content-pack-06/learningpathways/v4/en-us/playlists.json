@@ -66,5 +66,124 @@
       "82cfacc1-46ed-400f-863d-1ee0400f5fa7",
       "b24c6835-466c-4b17-a921-3f4d6fd07a7c"
     ]
-  }
+  },
+  {"COMMENT": "TEAMS PLAYLISTS START"},
+  {
+    "Id": "bc9d8a0a-58f1-42cc-bdcf-9ee10b73ba24",
+    "Title": "Intro to Microsoft Teams",
+    "Image": "images/playlists/intro_to_microsoft_teams.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
+    "Description": "Microsoft Teams is a collaboration app that helps your team stay organized and have conversations—all in one place. With Intro to Microsoft Teams, get an overview of teams, channels, meetings, conversations, tabs, share files, collaborate real time, find files, add people to a chat, make a call, manage your calendar, schedule a meeting, join meetings, share content, record a meeting, view our activity feed, and use the command box to search for people, items, or apps.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "b98d533f-118e-4bae-bf44-3df2470c2b12"
+    ]
+  },
+  {
+    "Id": "7a057fc3-74eb-46ab-991d-50e2e665f95d",
+    "Title": "Work with posts and messages",
+    "Image": "images/playlists/work-with-post-and-messages.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
+    "Description": "Learn how to create and format a post or announcement to start a conversation in a channel.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "238176cf-6428-4ca9-8181-7f7c0fe6ff48",
+      "a8073654-eb8d-44ca-a7ae-1287b32d599d",
+      "206edfa2-2978-4b03-9eec-4d06f33de166",
+      "2f13be6f-3968-4e5c-b020-9532db7b3a18"
+    ]
+  },
+  {
+    "Id": "044071b3-a780-4a24-b0b1-a4951ee48a3f",
+    "Title": "Upload and find files",
+    "Image": "images/playlists/upload-and-find-files.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
+    "Description": "Learn how to upload and share files in Microsoft Teams. Also learn how to find and filter files.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "d46890d8-e8bf-4642-97cd-6379b0c7dddd",
+      "dca01f0e-7335-4c6f-8dd1-d419870e3239"
+    ]
+  },
+  {
+    "Id": "2346ff06-6646-4084-845d-2ee5971f3634",
+    "Title": "Start chats and calls",
+    "Image": "images/playlists/start_chats_calls_and_meetings.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
+    "Description": "Start 1:1 or group chats to collaborate with a smaller group or to talk privately, and pin chats for quick access.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "3ba7bca7-2b2a-4df4-8ccc-5a772eae1d83",
+      "712ef898-a27e-42fa-a9c1-bfd0733bae97",
+      "1f8eecb7-0714-4147-abfa-07dcc14c21d6",
+      "0a27994b-4d5d-4ac1-a40d-83b72edca946"
+    ]
+  },
+  {
+    "Id": "fae33957-cb84-4185-ab78-2bd3818b31ee",
+    "Title": "Manage Meetings",
+    "Image": "images/playlists/manage_meetings.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "615f17eb-2c5b-4494-8541-4304435ca306",
+    "Source": "Microsoft",
+    "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
+    "Description": "View, schedule, and manage appointments and meetings in Microsoft Teams to keep your team on track.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "6dd4a6fd-d88f-4baf-b08e-06755a680926",
+      "006f78bc-67ce-465a-af1c-483534cdb011",
+      "7eb9c719-9452-4a9a-b3b6-69f48149ba1c",
+      "0d231dd0-3e6a-4a7c-a384-04ac44e80807",
+      "d3cc8fad-9655-4f2d-b8f5-197a1b3951a1",
+      "37566690-8652-4eac-abed-bfe6de084828",
+      "b33ae7a4-e14b-4e46-9440-94bfed214415",
+      "22c40436-db14-4863-93c6-aa9a51134edd"
+    ]
+  },
+  {
+    "Id": "2b830deb-c2f7-46b4-9c0f-eb3150a9f083",
+    "Title": "Manage your activity feed",
+    "Image": "images/playlists/manage-your-activity-feed.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
+    "Description": "Manage your activity feed and know everything that's happening in the team channels you follow.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "84be203b-a15b-4035-ae34-364440b70026",
+      "f44bd700-38dc-4838-87af-a6e6c3fe3998"
+    ]
+  },
+  {"COMMENT": "TEAMS PLAYLISTS END"}
   ]
