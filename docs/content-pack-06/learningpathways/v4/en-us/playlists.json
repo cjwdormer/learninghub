@@ -67,6 +67,9 @@
       "b24c6835-466c-4b17-a921-3f4d6fd07a7c"
     ]
   },
+
+
+
   {
     "Id": "bc9d8a0a-58f1-42cc-bdcf-9ee10b73ba24",
     "Title": "Intro to Microsoft Teams",
@@ -203,6 +206,9 @@
       "62e8d748-7877-420f-b600-24b56562aa70"
     ]
   },
+
+
+
   {
     "Id": "55d81409-752a-4bd8-8c2b-cfc937359358",
     "Title": "Intro to OneNote",
@@ -311,6 +317,161 @@
     "Assets": [
       "8264e361-d7a6-4f82-a45b-b9c618a3c5ce",
       "8ce0993b-6169-4f1f-b228-19fc78a6ce4e"
+    ]
+  },
+
+
+
+  {
+    "Id": "44bb07ac-1c25-43fa-885d-4a0476734c9f",
+    "Title": "Create and send email",
+    "Image": "images/playlists/create_and_send_email.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "b7351080-db3c-49f6-b406-b6759f3e0a7f",
+    "Description": "Discover your Microsoft Outlook inbox",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "c6c261e3-d50a-43a6-816f-35fe1e53acc6",
+      "400d4d45-8e2d-46a2-8cb5-ddabf12489ed",
+      "31fb24f9-e698-4789-b92a-f0e777f774ca",
+      "d32cd5ad-c7c5-49df-814d-4c17a5d3beb0",
+      "8e564127-15a0-4cf6-b974-f2101f5e256e"
+    ]
+  },
+  {
+    "Id": "8d87d80d-b5df-45a9-9164-e03d74cca066",
+    "Title": "Manage email",
+    "Image": "images/playlists/manage_email.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "b7351080-db3c-49f6-b406-b6759f3e0a7f",
+    "Description": "Set up automatic replies for when you are out-of-office",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "cc0e480f-973e-4412-a27b-8a52108d6d51",
+      "3e32b06d-a2d9-4a66-922f-78b77c41b97f",
+      "2a065b67-f991-4d22-9fb6-5d3160acd23b",
+      "2fb652e5-b387-4147-9fff-25f2e32dfda9"
+    ]
+  },
+  {
+    "Id": "ab55d6d4-c932-48a5-a062-a5e760fda581",
+    "Title": "Organize your inbox",
+    "Image": "images/playlists/organize_your_inbox.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "b7351080-db3c-49f6-b406-b6759f3e0a7f",
+    "Description": "Learn tips to organize your inbox. Learn how to set a Follow Up flag, view or remove Follow Up flags, set a reminder, find an Action Item, create color categories, assign a color category to an email message, create a folder, move messages into a folder, add a folder to Favorites, or create a rule.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "a894348d-b308-4185-840f-aff63063d076",
+      "0616c259-4bc1-4f35-807d-61eb59ac79c1",
+      "75ab719a-2ce8-49a7-a214-6d62b67cbd41"
+    ]
+  },
+  {
+    "Id": "534d99cd-2b9b-4a9d-acde-c83fcfc082aa",
+    "Title": "Outlook Calendar",
+    "Image": "images/playlists/calendar.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "b7351080-db3c-49f6-b406-b6759f3e0a7f",
+    "Description": "Create appointments and meetings, share your calendar or search for calendar items.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "6fb9225d-9f9d-456d-8c81-8437bfcd3ebf",
+      "6e6ddec6-5983-4c42-9652-b99e120206fb",
+      "4b87e762-c56b-4bcf-8b56-95fd8b6d241b",
+      "2fcf4f4f-8d46-4d8b-ae79-5d94549e531b",
+      "8e8364e1-400e-4c0f-a573-fe76b5a2d379",
+      "11f6c52d-9a72-4bfb-9cd2-c1857156dc5b",
+      "59230c47-6fe9-46bd-8646-e1118e9eb973"
+    ]
+  }, 
+
+
+
+  {
+    "Id": "f0e74200-1232-4659-8e66-4a037496dcad",
+    "Title": "Planner Quick Start",
+    "Image": "images/playlists/planner_quick_start.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "2f571b54-44fa-4778-9277-c7935e36ffb3",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "4cd19581-6909-49fa-8000-ed260a9368c4",
+    "Description": "Discover Planner - manage tasks and get updates",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "fe43c972-5a95-4071-86d4-423a64a3b21e",
+      "cbbf3772-4fdd-4f49-aa92-dc2203c062d7",
+      "ee61ecb0-a0bb-4c39-8682-f47fe7674f05",
+      "c351e8df-080c-4eca-b8c7-37dc3fb1a9c8",
+      "31518aac-e136-4ac9-badc-0d0de4e18819"
+    ]
+  },
+  {
+    "Id": "4a1a5131-1a63-4398-8105-ae9a18c20af8",
+    "Title": "Use Planner",
+    "Image": "images/playlists/planner_use_planner.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "2f571b54-44fa-4778-9277-c7935e36ffb3",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "4cd19581-6909-49fa-8000-ed260a9368c4",
+    "Description": "Manage tasks, create plans, and schedules",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "1e59c5e6-0ed3-4b9d-a021-026478765274",
+      "c141a2f5-7bfa-4279-81f7-a8c9153bab7b",
+      "6e2c3b55-d9b8-44fc-9d60-021a43a4777b",
+      "a31a35ea-d833-4570-b304-24f75fc6761d",
+      "a4a40a7c-b5a8-4a3d-b3db-306b01a2b122",
+      "5518c537-dfcb-41ab-ae58-2041e54b5f57",
+      "dfa0127d-0a0a-4480-aaca-dd3496000d24",
+      "a63b2257-1515-42d2-aad2-daee4b03dee0",
+      "7155bed9-aa2d-4ffb-8e3a-9f3aa8dead91"
+    ]
+  },
+  {
+    "Id": "66e36e66-d38b-4103-9c34-1201c2f2eb7f",
+    "Title": "Ideas for your board",
+    "Image": "images/playlists/planner_use_planner.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "2f571b54-44fa-4778-9277-c7935e36ffb3",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "4cd19581-6909-49fa-8000-ed260a9368c4",
+    "Description": "Use Planner to plan an event, publish content, and track a process",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "1c38ad8d-9201-42de-8a7b-1e68fcef1769",
+      "e9d92d99-37c5-465e-b045-689d295a739d",
+      "b997067e-91cd-4635-b260-6c2a335bd1fd",
+      "c8149652-f52c-4a9f-bb00-7f6fa4b23052"
     ]
   }
   ]
