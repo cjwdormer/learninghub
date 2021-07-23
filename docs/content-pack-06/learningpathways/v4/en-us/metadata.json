@@ -49,12 +49,12 @@
       "Subjects": []
     },
     {
-      "Id": "",
+      "Id": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
       "Name": "Outlook",
       "Subjects": []
     },
     {
-      "Id": "",
+      "Id": "2f571b54-44fa-4778-9277-c7935e36ffb3",
       "Name": "Planner",
       "Subjects": []
     },
@@ -145,7 +145,7 @@
         {
           "Id": "b7351080-db3c-49f6-b406-b6759f3e0a7f",
           "Name": "Outlook",
-          "Image": "images/categories/category-placeholder.png",
+          "Image": "images/categories/outlook.png",
           "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
           "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Microsoft",
@@ -154,7 +154,7 @@
         {
           "Id": "4cd19581-6909-49fa-8000-ed260a9368c4",
           "Name": "Planner",
-          "Image": "images/categories/category-placeholder.png",
+          "Image": "images/categories/planner.png",
           "TechnologyId": "2f571b54-44fa-4778-9277-c7935e36ffb3",
           "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Microsoft",
