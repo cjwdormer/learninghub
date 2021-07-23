@@ -59,17 +59,17 @@
       "Subjects": []
     },
     {
-      "Id": "",
+      "Id": "8770a224-6b62-406f-9fd2-a51d4a8131a8",
       "Name": "PowerPoint",
       "Subjects": []
     },
     {
-      "Id": "",
+      "Id": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
       "Name": "SharePoint",
       "Subjects": []
     },
     {
-      "Id": "",
+      "Id": "0eb89b8a-87cf-4388-b146-1e073588b029",
       "Name": "Word",
       "Subjects": []
     },
@@ -164,7 +164,7 @@
           "Id": "83cc2cce-4234-4c28-8cc1-3493fcb7d53e",
           "Name": "PowerPoint",
           "Image": "images/categories/category-placeholder.png",
-          "TechnologyId": "",
+          "TechnologyId": "8770a224-6b62-406f-9fd2-a51d4a8131a8",
           "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Microsoft",
           "SubCategories": []
@@ -172,9 +172,36 @@
         {
           "Id": "783ee818-e667-4b06-b478-531f04998919",
           "Name": "SharePoint",
+          "Image": "images/categories/sharepoint.png",
+          "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "e30eb2c1-8773-451c-93ff-0024f82b75ad",
+          "Name": "Word",
+          "Image": "images/categories/word.png",
+          "TechnologyId": "0eb89b8a-87cf-4388-b146-1e073588b029",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "",
+          "Name": "",
           "Image": "images/categories/category-placeholder.png",
           "TechnologyId": "",
-          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "",
+          "Name": "",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "",
+          "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
         }
