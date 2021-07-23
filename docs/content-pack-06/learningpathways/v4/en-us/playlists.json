@@ -473,5 +473,141 @@
       "b997067e-91cd-4635-b260-6c2a335bd1fd",
       "c8149652-f52c-4a9f-bb00-7f6fa4b23052"
     ]
+  },
+
+
+
+  {
+    "Id": "6601f080-d86a-4d0c-9e60-150746bf8f96",
+    "Title": "Share and sync with SharePoint",
+    "Image": "images/playlists/sharepoint_online_share_and_sync.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "783ee818-e667-4b06-b478-531f04998919",
+    "Description": "Create, share, and SharePoint files",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "98cb2ff2-c27e-42ea-b055-c2d895f8a5de",
+      "87a96948-4dd7-43e4-aca1-53f3e18bea9b",
+      "f4372eb3-df5b-4a30-ad39-32451c5bcb6f",
+      "88d0ebed-bbd7-4d00-8c1c-0d18a5543b43"
+    ]
+  }, 
+
+
+
+  {
+    "Id": "cef03778-baf8-4365-8b23-413c5edd6b66",
+    "Title": "Save and print with Word",
+    "Image": "images/playlists/save_and_print.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0eb89b8a-87cf-4388-b146-1e073588b029",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e30eb2c1-8773-451c-93ff-0024f82b75ad",
+    "Description": "Save, print, or convert a document to PDF. Print envelopes and labels.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "cebc3705-c949-42f6-8ed9-534943e1ab5c",
+      "b426d3dd-ab7e-40af-91b5-85158b08ad37",
+      "be712991-16dd-4b9e-810e-35b5320c922b",
+      "09e07ee6-3be4-4fe0-a229-4d36e2087515",
+      "032982e2-2afd-4bbd-a520-d01dfc28eba1",
+      "69000446-c891-46bb-ac00-1b3e7f6fbb99",
+      "64e36e41-a263-42f9-b213-ab5ab329de82"
+    ]
+  },
+  {
+    "Id": "fb5155d7-a802-4e95-b1ce-f8baea8cb44b",
+    "Title": "Share and co-author with Word",
+    "Image": "images/playlists/share_and_coauthor.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0eb89b8a-87cf-4388-b146-1e073588b029",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e30eb2c1-8773-451c-93ff-0024f82b75ad",
+    "Description": "Collaborate in Word by incerting comments and tracking changes. Use Word on a mobile device.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "92701e68-148d-42d3-9cd3-7eeab997a738",
+      "7dd3040c-3f30-4fdd-bab0-8586492a1f1d",
+      "8d3f868a-867e-4df2-8c68-bf96671641e2",
+      "3faf8a07-26ed-4b76-b6a0-43cca013e6d3",
+      "03c66bc2-c636-427a-9d1b-3e3345103b2e",
+      "d98e8b70-48a5-4267-8826-915590739a91"
+    ]
+  },
+  {
+    "Id": "26aa6ac6-24aa-43c5-ad1c-d93359ab3674",
+    "Title": "Use Word for reports",
+    "Image": "images/playlists/use_word_for_school.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0eb89b8a-87cf-4388-b146-1e073588b029",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e30eb2c1-8773-451c-93ff-0024f82b75ad",
+    "Description": "Write an equation or formula in Word, indent a paragraph, insert lines, create a bibliography, and insert footnotes and endnotes",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "4f799df7-4ca4-4670-afd3-6135768b01d0",
+      "b3721167-e1c8-40c3-8a97-3f046fc72d6d",
+      "9c026fce-5231-4508-b236-5cd3a4953469",
+      "17686589-4824-4940-9c69-342c289fa2a5",
+      "61f3fb1a-4717-414c-9a8f-015a5f3ff4cb"
+    ]
+  },
+  {
+    "Id": "4210a245-a2ae-4b6a-88a7-83ebef901aa7",
+    "Title": "Improve accessibility and ease of use with Word",
+    "Image": "images/playlists/improve_accessibility_and_ease_of_use.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0eb89b8a-87cf-4388-b146-1e073588b029",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e30eb2c1-8773-451c-93ff-0024f82b75ad",
+    "Description": "Learn to make Word accessible: Use a screen reader, shortcuts, and do things with Tell Me",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "303eb71a-6bd8-474c-ba06-923e93347224",
+      "153a4f24-5b06-4c8c-a966-1361baf46eb1",
+      "cebd7999-e9ad-4b0d-9126-76438798c6b2",
+      "6a7abb9e-0a36-448b-8704-f64a92ee2097"
+    ]
+  },
+  {
+    "Id": "2885901b-1655-4311-a7f9-025852a659e4",
+    "Title": "Add and format text with Word",
+    "Image": "images/playlists/word_quick_start.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0eb89b8a-87cf-4388-b146-1e073588b029",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e30eb2c1-8773-451c-93ff-0024f82b75ad",
+    "Description": "Learn to format text, create a bulleted or numbered list, change the line spacing in Word, apply styles and apply themes",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "ab6ed4a9-3086-4012-9fbf-06298ca4afb0",
+      "65bf0728-22fd-4784-b44c-4c6d8024f947",
+      "f80e5ec1-28c2-428f-b495-17875c97910a",
+      "b47af0b6-6471-48d5-8247-b4a01823624b",
+      "4d07b36d-0b31-4d7a-bf97-42c206e726ed"
+    ]
   }
+
+
+
   ]
