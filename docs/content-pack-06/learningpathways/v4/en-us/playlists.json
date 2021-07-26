@@ -71,6 +71,148 @@
 
 
   {
+    "Id": "8f026372-069d-4449-a116-938bf5aae7ea",
+    "Title": "Get started with Microsoft 365",
+    "Image": "images/playlists/intro_to_office.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
+    "Description": "Understand Microsoft 365 basics including Signing in and Getting Started at Office.com.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "b78213e0-d1c5-4d99-917f-75903c5377a4",
+      "b5be6bc0-e9c9-48a0-b9a1-bb366e29390e",
+      "6664ef66-de37-4de4-ac51-b8b5db4b5bb8"
+    ]
+  },
+  {
+    "Id": "f4bbc974-3e87-4e2b-a4c8-7cb1d3c35fa3",
+    "Title": "Create and save",
+    "Image": "images/playlists/create_office_files.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
+    "Description": "Learn how to Use Desktop Apps, Use Office.com Apps, Save Files to the Cloud, and Sync Files on Demand with OneDrive.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "cddec4f8-b8ca-496f-af33-800d9cdcc15c",
+      "3eb2554d-a4e0-4ae4-9609-1c06913127e1",
+      "f4b41dc8-339c-4653-9f41-328324656f61",
+      "b6b217d2-db1d-4c15-bd78-4e8e273b0190"
+    ]
+  },
+  {
+    "Id": "f7fc4bc7-12f5-44bc-9bd4-c122e891061d",
+    "Title": "Share and collaborate",
+    "Image": "images/playlists/store_online_and_collaborate.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
+    "Description": "Share files in Microsoft 365 and also learn how to Co-Author Files, Use @mentions, and Follow-ups.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "01c6c0a8-ffe9-494d-9c10-e975183b55a8",
+      "97a97677-5730-4a84-9755-c0182404ae33",
+      "abf7940b-f4e7-462b-afda-deed03d6a7e6",
+      "f7b18d2f-e5d1-44da-8d34-ec941041fb8b"
+    ]
+  },
+  {
+    "Id": "fa7efdbf-ddd5-46b4-86c0-4d75b3893c85",
+    "Title": "Work with Microsoft Teams",
+    "Image": "images/playlists/distribute_and_protect.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
+    "Description": "Work with Microsoft Teams to collaborate with your team, help your team stay organized, and have conversations – all in one place. Learn how to create teams and channels, add a tab, pin a channel, create and format a post, start and pin a chat, make calls, join a Teams meeting, and learn tips and best practices to schedule, start, and run an effective meeting.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "aa92f575-ab19-4db1-b201-d5cddf6f9052",
+      "ae20005a-012d-4197-baf5-aab5bc0a66ea",
+      "fc6a571a-6b06-4a2d-bda6-ef62b89a31d7",
+      "4e8f8cce-c4b3-49c6-92d8-1ae2a7ebeea2",
+      "cb53b30d-1af3-4dc4-9678-69b6c1e640a3",
+      "a76fef68-d80d-4e30-88e6-9c85d6e4795a",
+      "d14c1dfb-42fe-4b97-8e40-24b68eb61814"
+    ]
+  },
+  {
+    "Id": "ffdf1665-6516-4d78-b9d3-39985b60c06b",
+    "Title": "Get the most out of Windows",
+    "Image": "images/playlists/view_office_files.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
+    "Description": "Get the most out of Windows by learning how to Find your Stuff in Windows 10, Use Microsoft Edge, and Search with Bing.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "1dc186e7-53c1-4da5-800e-670da2ce5a81",
+      "eb99a666-f31b-4a19-b3ac-56f07835c6bb",
+      "7cbd34e7-be3e-4464-845e-a7cc5e461878"
+    ]
+  },
+  {
+    "Id": "861f0286-c3b5-4a76-9b7e-77c1bf39572d",
+    "Title": "Work from anywhere",
+    "Image": "images/playlists/add_and_edit_text.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
+    "Description": "Learn how to Work from anywhere by using the OneDrive Mobile App and the Outlook Mobile App.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "5d1a7e1c-1cbd-4acc-ae14-91cefdde690d",
+      "1c696bda-5ea8-435c-9548-f5c59b9e1977"
+    ]
+  },
+  {
+    "Id": "477ad890-043c-4d3c-982e-40c540f10009",
+    "Title": "Cool Microsoft 365 features",
+    "Image": "images/playlists/office_365_format_text.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
+    "Description": "Learn about Cool Microsoft 365 features such as PowerPoint Designer, Ideas in Excel, Editor in Word, and Making your Content Accessible.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "0ba87823-c503-430a-aa2d-2bbcaf228b16",
+      "7d4dc4cb-620e-4b5d-89b6-d9da676b7c0a",
+      "b70390dc-e801-4d26-87fe-248f24024268",
+      "3686ff3d-227d-46f8-b81a-527618909fca"
+    ]
+  },
+  
+
+
+  {
     "Id": "bc9d8a0a-58f1-42cc-bdcf-9ee10b73ba24",
     "Title": "Intro to Microsoft Teams",
     "Image": "images/playlists/intro_to_microsoft_teams.png",
