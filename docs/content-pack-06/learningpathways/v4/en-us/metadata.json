@@ -29,8 +29,8 @@
       "Subjects": []
     },
     {
-      "Id": "",
-      "Name": "M365 Basics",
+      "Id": "0b09984a-ce63-4ffa-ad3e-30b2de4da3fe",
+      "Name": "Microsoft 365 (M365) Basics",
       "Subjects": []
     },
     {
@@ -74,6 +74,11 @@
       "Subjects": []
     },
     {
+      "Id": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
+      "Name": "Quick start guides",
+      "Subjects":[]
+    },
+    {
       "Id": "",
       "Name": "",
       "Subjects": []
@@ -108,9 +113,9 @@
         },
         {
           "Id": "c86043b9-d419-4829-be46-4592b976910c",
-          "Name": "M365 Basics",
+          "Name": "Microsoft 365 (M365) Basics",
           "Image": "images/categories/category-placeholder.png",
-          "TechnologyId": "",
+          "TechnologyId": "0b09984a-ce63-4ffa-ad3e-30b2de4da3fe",
           "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Microsoft",
           "SubCategories": []
@@ -188,20 +193,11 @@
           "SubCategories": []
         },
         {
-          "Id": "",
-          "Name": "",
+          "Id": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
+          "Name": "Quick Start Guides",
           "Image": "images/categories/category-placeholder.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "",
-          "Name": "",
-          "Image": "images/categories/category-placeholder.png",
-          "TechnologyId": "",
-          "SubjectId": "",
+          "TechnologyId": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Microsoft",
           "SubCategories": []
         }
