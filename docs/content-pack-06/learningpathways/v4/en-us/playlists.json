@@ -728,8 +728,231 @@
       "b47af0b6-6471-48d5-8247-b4a01823624b",
       "4d07b36d-0b31-4d7a-bf97-42c206e726ed"
     ]
+  },
+
+
+
+  {
+    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
+    "Title": "Excel Quick Start",
+    "Image": "images/playlists/excel_quick_start.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
+    "Description": "Get started quickly with the Excel Quick Start guide. Learn how to create a workbook, enter data, save your workbook to OneDrive, automatically fill a column with Flash Fill, quickly calculate with AutoSum, create a chart, or use conditional formatting with Quick Analysis, freeze the top row, share your workbook to collaborate with others, and set up your mobile apps.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "94b00f50-5896-479c-b0c5-ff74603b35a3",
+      "0cf0055d-49f8-464e-9dfa-8f582b32453b",
+      "11a632c1-197e-454f-a515-374a4aa2b3dd",
+      "a8af741e-00f2-44c0-a94b-38abd51af01f"
+    ]
+  },
+  {
+    "Id": "77061d5e-2222-4748-ac80-7d03d2587bd3",
+    "Title": "Forms Quick Start",
+    "Image": "images/playlists/forms_quick_startx.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "33059862-a87d-4b40-9984-be7c6083cf95",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
+    "Description": "Build a form in minutes. Learn how to add questions to your form, define settings, share your form, and check results in just a few easy steps!",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "620daa7a-3e03-4013-8f92-5cce86210ef6",
+      "39a23830-452d-474c-ae1f-47a6ebefa21a",
+      "384371be-f1e7-4628-bcba-abd3d6123917",
+      "31c4b0cd-a89b-42e7-9429-1c14a1d8ef67"
+    ]
+  },
+  {
+    "Id": "261009d0-8b5c-4302-bb0f-c993e1ebb51c",
+    "Title": "Microsoft 365 for business Quick Start",
+    "Image": "images/playlists/office_365_quick_start.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "c86043b9-d419-4829-be46-4592b976910c",
+    "Description": "Learn the basics of Microsoft 365 with our tutorials that will help you Get Started, Create and Save Files, Share and Collaborate, and work with Microsoft Teams.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "5453895d-5ba2-4ce5-b2b8-8461695f75ad",
+      "21a86754-2b38-4d2b-882c-a26966050921",
+      "5f7689f7-8095-47ed-88ae-a8da2cd873d4",
+      "40ce1d89-995c-4a18-9b7e-7482f8121ece",
+      "ec5c071b-adf4-4bea-b128-5e99a6177b29",
+      "3ccfd6e1-bc78-46b3-979b-2da71905fd7f"
+    ]
+  },
+  {
+    "Id": "d3acd5c2-0488-4104-935a-61fda884bc49",
+    "Title": "Microsoft Teams Quick Start",
+    "Image": "images/playlists/teams_quick_start.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
+    "Description": "Get started quickly with the Microsoft Teams Quick Start guide. Learn how to sign in to Teams, pick a team and channel, chat in Teams, start a new conversation, reply to a conversation, use emojis, memes, and GIFs, share a file, collaborate with @mention, check your Activity Feed, search for messages, people, or files, and set up your mobile apps.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "422bf3aa-9ae8-46f1-83a2-e65720e1a34d",
+      "6723dc43-dbc0-46e6-af49-8a2d1c5cb937",
+      "d7978db0-33b5-4ad3-93ac-ef0bd3c2a670",
+      "31e38b35-96ab-447a-acb2-97bb5c0716c0"
+    ]
+  },
+  {
+    "Id": "c9ecc2e9-bc17-496a-8b0b-9242b6bb3eaf",
+    "Title": "OneDrive Quick Start",
+    "Image": "images/playlists/onedrive_quick_start.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "8e068419-be9e-4a9b-8cc2-a4463df73d8b",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
+    "Description": "Get started quickly with the OneDrive Quick Start guide. Learn how to upload files and folders, use OneDrive in your browser or on your desktop, save and open files in your Office apps, create a file or folder, manage files and folders, search for files, back up files, share files, manage access and permissions, stop sharing, copy links, change views, collaborate in OneDrive, set up your mobile apps, and work on the go with the OneDrive app on your mobile device.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "a1397e56-61ec-4ed2-9dac-727bf8ac3357",
+      "94c8a731-c774-468e-97a1-5f038bdf330d",
+      "586df57b-fdae-439c-ae5b-71cbe5bb0d4c",
+      "8ce30c76-e27b-4e55-9050-082393954213"
+    ]
+  },
+  {
+    "Id": "a324d70a-4727-43e3-b78a-be93092d3dd0",
+    "Title": "OneNote Quick Start",
+    "Image": "images/playlists/onenote_quick_start.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "4ba51921-475f-481d-8bc3-c9b0f658342c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
+    "Description": "Learn how to create a Notebook in OneNote",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "6be33cf9-f7c3-4421-9d74-469a259952d3",
+      "a49a3e1d-eafd-4cd0-8a1e-1e0cf558323d",
+      "3356f32e-f966-46dc-8d0e-0d61836c1bd1"
+    ]
+  },
+  {
+    "Id": "e66fa8f3-ec7e-47f9-9d79-4d334f157563",
+    "Title": "Outlook Quick Start",
+    "Image": "images/playlists/outlook_quick_start.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
+    "Description": "Get started quickly with the Outlook Quick Start guide. Learn how to add an email account, create and send email, use @mentions, show Focused inbox, manage your calendar and contacts, schedule an appointment using Scheduling Assistant, add a contact, collaborate in Outlook, share a file, set up an online meeting and shared notes, and set up your mobile apps.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "e9da47c4-9b89-4b49-b945-a204aeea6726",
+      "19c32deb-08b6-4f90-a211-02bc5f77f360",
+      "631a182a-21e0-4e41-8fa2-0d83e55da02d",
+      "63bf693d-76d4-410b-89d2-a3b63c729c22"
+    ]
+  },
+  {
+    "Id": "f0e74200-1232-4659-8e66-4a037496dcad",
+    "Title": "Planner Quick Start",
+    "Image": "images/playlists/planner_quick_start.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "2f571b54-44fa-4778-9277-c7935e36ffb3",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
+    "Description": "Discover Planner - manage tasks and get updates",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "cbbf3772-4fdd-4f49-aa92-dc2203c062d7",
+      "ee61ecb0-a0bb-4c39-8682-f47fe7674f05",
+      "c351e8df-080c-4eca-b8c7-37dc3fb1a9c8"
+    ]
+  },
+  {
+    "Id": "df1a81f5-17a5-4a7a-b214-dfeb4f677afb",
+    "Title": "PowerPoint Quick Start",
+    "Image": "images/playlists/powerpoint_quick_start.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "8770a224-6b62-406f-9fd2-a51d4a8131a8",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
+    "Description": "Create presentations with PowerPoint",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "2016-422250f8-5721-4cea-92cc-202fa7b89617",
+      "7ef0d0f2-dc24-45d3-808b-be9747ee69f6",
+      "2659f76c-3297-4ff2-ac55-4aa5eda8113b",
+      "07fcfb59-f410-4e52-9c60-3b069a805ee5",
+      "cd828eb0-c18b-42ac-9417-3f62aa501329"
+    ]
+  },
+  {
+    "Id": "24216b89-7d0d-4263-b61e-2ecbda58f1df",
+    "Title": "SharePoint Online Quick Start",
+    "Image": "images/playlists/sharepoint_online_quick_start.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
+    "Description": "Build and customize intranet sites, collaborate with others, manage your daily routine with workflows, and store your information",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "21722d7d-bcb1-4ee0-b86a-6c107bf646c7",
+      "0c5c3345-0a61-4532-971c-5a1e0970fde3",
+      "4d1e11bf-8ddc-499d-b889-2b48d10b1ce8"
+    ]
+  },
+  {
+    "Id": "a958fdc7-d697-43f1-b3b3-a3f467ff94cd",
+    "Title": "Word Quick Start",
+    "Image": "images/playlists/word_quick_start.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0eb89b8a-87cf-4388-b146-1e073588b029",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
+    "Description": "There are several useful options to lay out pages with Word. Learn how to change margins, create newsletter columns, change page orientation, add a border to a page, insert a header or a footer, insert page numbers, and insert a page break.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "4505de9c-7dbd-418b-9252-7ededcd75147",
+      "d7c23ed3-a80a-4ff4-ade5-91211a7614f3",
+      "bc819ecd-9887-4a15-8eda-d90cbc58f8fb",
+      "b3d7f2af-c6e9-46e7-96a7-dabda4423dd7"
+    ]
   }
 
 
-
+  
   ]
