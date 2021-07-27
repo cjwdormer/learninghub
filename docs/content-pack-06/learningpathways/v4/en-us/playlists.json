@@ -79,7 +79,7 @@
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
     "SubjectId": "",
     "Source": "Microsoft",
-    "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
+    "CatId": "c86043b9-d419-4829-be46-4592b976910c",
     "Description": "Understand Microsoft 365 basics including Signing in and Getting Started at Office.com.",
     "StatusTagId": "",
     "StatusNote": "",
@@ -98,7 +98,7 @@
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
     "SubjectId": "",
     "Source": "Microsoft",
-    "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
+    "CatId": "c86043b9-d419-4829-be46-4592b976910c",
     "Description": "Learn how to Use Desktop Apps, Use Office.com Apps, Save Files to the Cloud, and Sync Files on Demand with OneDrive.",
     "StatusTagId": "",
     "StatusNote": "",
@@ -118,7 +118,7 @@
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
     "SubjectId": "",
     "Source": "Microsoft",
-    "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
+    "CatId": "c86043b9-d419-4829-be46-4592b976910c",
     "Description": "Share files in Microsoft 365 and also learn how to Co-Author Files, Use @mentions, and Follow-ups.",
     "StatusTagId": "",
     "StatusNote": "",
@@ -138,7 +138,7 @@
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
     "SubjectId": "",
     "Source": "Microsoft",
-    "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
+    "CatId": "c86043b9-d419-4829-be46-4592b976910c",
     "Description": "Work with Microsoft Teams to collaborate with your team, help your team stay organized, and have conversations – all in one place. Learn how to create teams and channels, add a tab, pin a channel, create and format a post, start and pin a chat, make calls, join a Teams meeting, and learn tips and best practices to schedule, start, and run an effective meeting.",
     "StatusTagId": "",
     "StatusNote": "",
@@ -161,7 +161,7 @@
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
     "SubjectId": "",
     "Source": "Microsoft",
-    "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
+    "CatId": "c86043b9-d419-4829-be46-4592b976910c",
     "Description": "Get the most out of Windows by learning how to Find your Stuff in Windows 10, Use Microsoft Edge, and Search with Bing.",
     "StatusTagId": "",
     "StatusNote": "",
@@ -180,7 +180,7 @@
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
     "SubjectId": "",
     "Source": "Microsoft",
-    "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
+    "CatId": "c86043b9-d419-4829-be46-4592b976910c",
     "Description": "Learn how to Work from anywhere by using the OneDrive Mobile App and the Outlook Mobile App.",
     "StatusTagId": "",
     "StatusNote": "",
@@ -198,7 +198,7 @@
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
     "SubjectId": "",
     "Source": "Microsoft",
-    "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
+    "CatId": "c86043b9-d419-4829-be46-4592b976910c",
     "Description": "Learn about Cool Microsoft 365 features such as PowerPoint Designer, Ideas in Excel, Editor in Word, and Making your Content Accessible.",
     "StatusTagId": "",
     "StatusNote": "",
@@ -209,7 +209,6 @@
       "3686ff3d-227d-46f8-b81a-527618909fca"
     ]
   },
-  
 
 
   {
