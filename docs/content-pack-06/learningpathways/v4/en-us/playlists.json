@@ -1092,8 +1092,91 @@
       "bc819ecd-9887-4a15-8eda-d90cbc58f8fb",
       "b3d7f2af-c6e9-46e7-96a7-dabda4423dd7"
     ]
+  },
+
+
+
+  {
+    "Id": "cf352e8f-caf6-4e52-86d5-ae218004e089",
+    "Title": "Create more accessible email messages in Outlook",
+    "Image": "images/playlists/create-more-accessible-emails-in-outlook.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "3fcdb3a8-ca79-4e7e-b2a5-42feaf286f22",
+    "Description": "Create more accessible email messages in Outlook",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "d8de6398-e129-4019-8b34-b241e164456a",
+      "b6826ecd-5865-4db4-a8e7-f5a33d2799b5",
+      "e4ebc1c2-4781-4201-b6a6-bd3b02c25197"
+    ]
+  },
+  {
+    "Id": "76253e80-b36d-479a-9267-e73f2b5a8600",
+    "Title": "Create more accessible Word documents",
+    "Image": "images/playlists/create-more-accessible-word-documents.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0eb89b8a-87cf-4388-b146-1e073588b029",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "55411d20-3d34-4fbc-bff9-431b57974701",
+    "Description": "Create more accessible Word documents",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "9420d2d8-f04d-4d00-b852-2d846dbedfe9",
+      "6596fb5a-c25e-4dcb-b034-7cb38b611e38",
+      "727e6ff1-ef1c-475d-90d0-196e26b5b753",
+      "9f920424-7de6-4002-b4ed-6503a3cfae2d",
+      "d47b9703-df15-4a41-b895-e97729062e23",
+      "ce53495d-c30e-442a-b1d2-05593cc814c0",
+      "5c882b54-d2b1-4270-b65d-79483a2aa3ca",
+      "3f759592-6dac-4ea7-98c4-98522c31c5f7"
+    ]
+  },
+  {
+    "Id": "c4d3a610-6289-4979-b0b6-b679ef28c13b",
+    "Title": "Create more accessible Excel workbooks",
+    "Image": "images/playlists/create-more-accessible-excel-spread-sheets.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "3d7eb08a-c027-4396-bf84-1aeaedc5bed5",
+    "Description": "Create more accessible Excel workbooks",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "8b97437b-107f-43e5-8280-17ac317995fa",
+      "908d26b8-0c45-44c1-9a83-b8ff583aa4ef",
+      "e69562f7-e875-485d-839b-cb66b5d98023"
+    ]
+  },
+  {
+    "Id": "776fc7e7-cd09-4968-887f-cc04e8558b9e",
+    "Title": "Create more accessible slides in PowerPoint",
+    "Image": "images/playlists/create-more-accessible-slides-in-powerpoint.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "8770a224-6b62-406f-9fd2-a51d4a8131a8",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "09088bde-1e85-4714-8154-d5629f0d4007",
+    "Description": "Learn how to put content in your PowerPoint slides to make it accessible to all",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "20a02e3c-437e-4ab2-8441-9f902e78c675",
+      "ebbbe5e7-a950-46b8-b63a-738a87b5a49a",
+      "1539f168-f27c-4215-9319-a5fafd76eec6",
+      "a02cbbff-d56f-477d-bd8b-d485408ae5eb",
+      "8e7eadca-6501-4ac5-b616-f94c2c491629"
+    ]
   }
-
-
-
   ]
