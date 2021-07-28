@@ -15,9 +15,14 @@
         {
           "Id": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
           "Name": "Site Owner package"
+        },
+        {
+          "Id": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+          "Name": "Accessibility",
+          "Subjects": []
         }
       ]
-    },
+    },  
     {
       "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
       "Name": "Excel",
@@ -93,6 +98,15 @@
       "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
       "Source": "Learning Hub Team",
       "SubCategories": [
+        {
+          "Id": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
+          "Name": "Quick Start Guides",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
         {
           "Id": "85c785c2-c873-4483-9728-64a367fee3f1",
           "Name": "Excel",
@@ -182,15 +196,6 @@
           "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Microsoft",
           "SubCategories": []
-        },
-        {
-          "Id": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
-          "Name": "Quick Start Guides",
-          "Image": "images/categories/category-placeholder.png",
-          "TechnologyId": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
-          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
-          "Source": "Microsoft",
-          "SubCategories": []
         }
       ]
     },
@@ -227,6 +232,52 @@
           "Image": "images/categories/category-placeholder.png",
           "TechnologyId": "",
           "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "3c14d03f-07c6-46fd-bcda-34c6fef80606",
+      "Name": "Accessibility options in M365",
+      "Image": "images/categories/category-placeholder.png",
+      "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+      "SubjectId": "87d93b2d-5209-42fa-a44c-7e63799866ad",
+      "Source": "Microsoft",
+      "SubCategories": [
+        {
+          "Id": "3fcdb3a8-ca79-4e7e-b2a5-42feaf286f22",
+          "Name": "Outlook",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
+          "SubjectId": "87d93b2d-5209-42fa-a44c-7e63799866ad",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "55411d20-3d34-4fbc-bff9-431b57974701",
+          "Name": "Word",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "0eb89b8a-87cf-4388-b146-1e073588b029",
+          "SubjectId": "87d93b2d-5209-42fa-a44c-7e63799866ad",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "3d7eb08a-c027-4396-bf84-1aeaedc5bed5",
+          "Name": "Excel",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+          "SubjectId": "87d93b2d-5209-42fa-a44c-7e63799866ad",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "09088bde-1e85-4714-8154-d5629f0d4007",
+          "Name": "Powerpoint",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "8770a224-6b62-406f-9fd2-a51d4a8131a8",
+          "SubjectId": "87d93b2d-5209-42fa-a44c-7e63799866ad",
           "Source": "Microsoft",
           "SubCategories": []
         }
