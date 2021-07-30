@@ -2904,6 +2904,17 @@
     "StatusNote": ""
   },
   {
+    "Id": "7957ee2d-c54e-4230-961f-175fad32972c",
+    "Title": "Conditional Formatting",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/7957ee2d-c54e-4230-961f-175fad32972c?embed=true",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
     "Id": "d644dc7b-d008-4459-86ec-00d4e5988e4d",
     "Title": "Change the format of a cell",
     "Description": "",
