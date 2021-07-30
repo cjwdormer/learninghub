@@ -96,8 +96,8 @@
   ],
   "Categories": [
     {
-      "Id": "365fc5e8-1965-4cc1-affe-033e4b5d99ab",
-      "Name": "Basic functionality",
+      "Id": "99d0e1ec-9abf-4b11-b6d7-cd9c69cbe4bd",
+      "Name": "Quick Starts and basic information",
       "Image": "images/categories/category-placeholder.png",
       "TechnologyId": "68c124be-00d8-4177-aae5-4ad3381fc838",
       "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
@@ -120,7 +120,17 @@
           "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Microsoft",
           "SubCategories": []
-        },      
+        }
+      ]
+    },
+    {
+      "Id": "365fc5e8-1965-4cc1-affe-033e4b5d99ab",
+      "Name": "Basic functionality",
+      "Image": "images/categories/category-placeholder.png",
+      "TechnologyId": "68c124be-00d8-4177-aae5-4ad3381fc838",
+      "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+      "Source": "Learning Hub Team",
+      "SubCategories": [     
         {
           "Id": "85c785c2-c873-4483-9728-64a367fee3f1",
           "Name": "Excel",
