@@ -233,6 +233,33 @@
       "Source": "Learning Hub Team",
       "SubCategories": [
         {
+          "Id": "d32992c6-a3d5-4c9d-b527-8c7cd79229d7",
+          "Name": "Excel",
+          "Image": "images/categories/excel.png",
+          "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+          "SubjectId": "12dbb6ea-5043-4ea7-af2a-6036cc1b9e74",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "c508cee7-471b-48eb-a81b-a524dd4583a3",
+          "Name": "Microsoft Teams",
+          "Image": "images/categories/teams.png",
+          "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+          "SubjectId": "12dbb6ea-5043-4ea7-af2a-6036cc1b9e74",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "2c7845a8-6118-40f6-b082-962408d58381",
+          "Name": "Forms",
+          "Image": "images/categories/forms_training.png",
+          "TechnologyId": "33059862-a87d-4b40-9984-be7c6083cf95",
+          "SubjectId": "12dbb6ea-5043-4ea7-af2a-6036cc1b9e74",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
           "Id": "",
           "Name": "",
           "Image": "images/categories/category-placeholder.png",
