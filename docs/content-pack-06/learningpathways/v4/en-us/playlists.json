@@ -1210,7 +1210,170 @@
     ]
   },
 
+
+
+  {
+    "Id": "e6656c9b-a36a-4143-8fe4-5b6de0d9486b",
+    "Title": "Formatting",
+    "Image": "images/playlists/formatting.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "d32992c6-a3d5-4c9d-b527-8c7cd79229d7",
+    "Description": "Format numbers in cells for things like currency, percentages, decimals, dates, phone numbers, or social security numbers. Set up conditional formatting, align or rotate text, or add a watermark.",
+    "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
+    "StatusNote": "",
+    "Assets": [
+      "7957ee2d-c54e-4230-961f-175fad32972c",
+      "d644dc7b-d008-4459-86ec-00d4e5988e4d",
+      "6207db27-7981-4b83-bd29-cc68c333dcfa",
+      "14c9018b-5431-43db-b1ea-39dd8c75de96",
+      "b0b4def0-411d-4a6c-885e-a8d4d75b54bf",
+      "f8b36f10-c4a1-4320-9cc1-9984eb9abd45",
+      "483730f9-7cdb-4d67-b9e6-ffabd6401e16",
+      "16301bbd-6aa6-4fd7-8cde-b60e8d599b6e"
+    ]
+  },
+  {
+    "Id": "9baa4835-b7d5-4e7e-8bea-0a53a1b91229",
+    "Title": "Formulas and functions",
+    "Image": "images/playlists/formulas_and_functions.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "d32992c6-a3d5-4c9d-b527-8c7cd79229d7",
+    "Description": "Learn how to create formulas and use built-in functions to perform calculations and solve problems. Learn to use VLOOKUP, SUM, COUNTIF, IF and more.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "7068c43a-2e0b-47ea-8b0f-692343447af6",
+      "65e4dfc5-5b27-4d90-8c51-a56edfca12a4",
+      "95439567-b972-4ba3-858c-da70000c8ad4",
+      "fbf3ff68-e9c2-4a2b-8a15-a52ff5729dde",
+      "3f12e6c7-887b-487e-a8f3-31742d060729",
+      "9b987982-de15-4784-8652-0d963d0eac05",
+      "742ecbd6-edf9-4470-b021-be7a2b7a51b2",
+      "8a6ca66e-152f-4d10-848c-cd35b2fc70d2",
+      "1c27aedd-870f-41a6-bae2-23d4ca417673",
+      "6614f5e7-fcf6-4781-b577-7a9538285353"
+    ]
+  },
+  {
+    "Id": "94333445-037d-4222-aa99-a84b1f6125f0",
+    "Title": "Tables",
+    "Image": "images/playlists/tables.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "d32992c6-a3d5-4c9d-b527-8c7cd79229d7",
+    "Description": "Learn how to create and format tables, sort data, and filter data in a table. Discover how to total data in a table or use slicers to filter data.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "bf0ce08b-d012-42ec-8ecf-a2259c9faf3f",
+      "7f11ec7c-6c1b-4195-9fa5-b3bc8ea544d4",
+      "7fbe34f4-8382-431d-942e-41e9a88f6a96",
+      "9885a56c-51b5-487a-a168-054afd034631",
+      "3517fa12-353e-4907-b94d-b8e9b500ee33"
+    ]
+  },
+  {
+    "Id": "50f79020-4453-479a-a7db-301f8863a5a3",
+    "Title": "Charts",
+    "Image": "images/playlists/charts.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "d32992c6-a3d5-4c9d-b527-8c7cd79229d7",
+    "Description": "Charts help you visualize your data in a way that creates maximum impact on your audience. Learn to create a chart, add a trendline, analyze data instantly or update an existing chart.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "201fba6f-daf0-4aaf-98f8-e826da1719d7",
+      "8b69760d-f337-4b7b-b72e-d48f29e54ba7",
+      "8d2399ed-748e-4fb5-95c9-eed8177f116d",
+      "447ce791-5207-450d-a57a-b3a4602b54e0",
+      "231c42d2-5e58-40e1-99f0-cbe618cfee1d",
+      "5459166a-549f-44ef-a285-51d32bebcd5d",
+      "426058cb-da1f-4e45-906e-4d40f171801e",
+      "69df61ca-f6f6-42b6-bb13-78bbd64026db",
+      "343e775c-58ee-4a3d-8d52-f4e3f5240d79"
+    ]
+  },
+  {
+    "Id": "6988bd71-e905-4699-a25c-ba148d6e5bad",
+    "Title": "PivotTables",
+    "Image": "images/playlists/pivottables.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "d32992c6-a3d5-4c9d-b527-8c7cd79229d7",
+    "Description": "Excel PivotTables are a powerful tool to calculate, summarize, and analyze data and see comparisons, patterns, and trends in your data. Learn how to create a PivotTable to analyze worksheets, tables, and ranges, use the Field List to arrange fields, group or ungroup data, sort data, filter data, and create a PivotChart.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "1f0532af-5e59-45e6-830f-0c058157d90c",
+      "d7fc5918-12a9-4f99-bd35-e80660468efd",
+      "74ce8afc-2446-4816-80ee-20ca7fb71793",
+      "1404c8ee-ea47-4e4b-a6a0-9bd694eb8c7d",
+      "038055a0-9ba8-4f70-9a00-84bd41a48a3f"
+    ]
+  },
+  {
+    "Id": "3ee48085-019d-4256-9ad5-c2d03c82238c",
+    "Title": "Share and co-author",
+    "Image": "images/playlists/excel_share_and_co-author.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "d32992c6-a3d5-4c9d-b527-8c7cd79229d7",
+    "Description": "Learn how to share a workbook with others, right within Excel. You can let them edit the workbook or just view it. Also learn how to lock or unlock specific areas, protect an Excel file, or save to PDF.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "5223233d-ee42-4331-bb63-6495a5039cc0",
+      "7d583ed1-58ca-4906-9596-3b963b57ea7e",
+      "551958e1-7da6-467c-8a91-1b3389626425",
+      "a94dbe7d-3508-485d-9d98-fc6aead695b7",
+      "65f504d8-160b-4a05-ac30-46fbd5227a52",
+      "7a5ac6a0-2caa-4cfc-8ae5-c542d6437ded",
+      "707db3cb-e41e-495d-a592-464b9fbee17d"
+    ]
+  },
+  {
+    "Id": "d4b4a842-2858-4cef-a090-51b567d90cc0",
+    "Title": "Common use of functions",
+    "Image": "images/playlists/excel_share_and_co-author.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "d32992c6-a3d5-4c9d-b527-8c7cd79229d7",
+    "Description": "Automatically number rows, calculate the difference between two dates, define and use names in formulas, and combine text from two or more cells in one cell.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "b12e1cc5-e98a-48d0-af9c-41afd3bda3d5",
+      "08a54094-679a-4381-b461-b0627ef8cd09",
+      "8ad05e62-bc18-49fc-937b-8f4144c256c2",
+      "1246bc29-c113-415d-80ba-7fac257beab2"
+    ]
+  },
   
+
 
   {
     "Id": "cf352e8f-caf6-4e52-86d5-ae218004e089",
