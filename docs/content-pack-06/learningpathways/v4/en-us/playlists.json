@@ -1376,6 +1376,95 @@
 
 
   {
+    "Id": "d4f4cae2-ce9a-483a-a786-93974e40b482",
+    "Title": "Collaborate in teams and channels",
+    "Image": "images/playlists/collaborate_in_teams_and_channels.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "c508cee7-471b-48eb-a81b-a524dd4583a3",
+    "Description": "In Microsoft Teams, channels are where you hold meetings, have conversations, and work on files together. Learn how to create a public or private channel, pin a channel, add a tab, share a file, meet now, show and hide channels, customize channel notifications, reply to a message, like or save a message, use @mention, collaborate on or co-edit a file, start a conversation, send email to a channel, and create a plan with Planner.",
+    "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
+    "StatusNote": "",
+    "Assets": [
+      "c3d63c10-77d5-4204-a566-53ddcf723b46",
+      "2766a75b-342a-4ed9-810d-f3c0f06c3207",
+      "a6041b90-0805-4140-b8ae-1ee3805908d7",
+      "99d33aaa-0743-47c6-a476-eb0a24abcb7e",
+      "180ed260-d3ef-4247-9f24-1984fc76d5f0",
+      "f5275f98-7ee6-40e1-8c6e-5dc452df128b",
+      "f581aeaf-cc73-4dce-8a7b-12ecce5e7fdf",
+      "d6b86155-c9a5-4c35-a009-67f74ffe0c69"
+    ]
+  },
+  {
+    "Id": "6f3bbc71-627d-4427-9635-6aadd0a203f9",
+    "Title": "Reach large audiences with live events",
+    "Image": "images/playlists/hybrid_live_events.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "c508cee7-471b-48eb-a81b-a524dd4583a3",
+    "Description": "Learn how to use Microsoft Teams for live events. Organize a live event in the new Yammer. Schedule a live event in Yammer using Teams.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "0ca67c26-f365-47d0-b1fe-f2f670288927",
+      "c9bd21e2-4cef-4473-b1f0-147e8f144af0",
+      "36d3f3b4-866a-4169-8d10-c78e6bdde2d9",
+      "22e085c6-9923-43bd-b363-33d1e81c40d6",
+      "5066fb5a-a8c1-48cb-b1aa-9b0e2b4a1e7e"
+    ]
+  },
+  {
+    "Id": "634948c6-8f39-4bc4-a0ee-f42dc12b511c",
+    "Title": "Create approvals",
+    "Image": "images/playlists/teams_approvals.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "c508cee7-471b-48eb-a81b-a524dd4583a3",
+    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
+    "StatusNote": "",
+    "Assets": [
+      "fc8da528-2cbd-4079-accd-8435ab70cabd",
+      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
+      "079cd574-3e04-4dc1-bcc1-6d0797970723",
+      "e94cd617-b48e-433c-94c3-7f944a3a8579"
+    ]
+  },
+  {
+    "Id": "6f3bbc71-627d-4427-9635-6aadd0a203f9",
+    "Title": "Reach large audiences with live events",
+    "Image": "images/playlists/hybrid_live_events.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "c508cee7-471b-48eb-a81b-a524dd4583a3",
+    "Description": "Learn how to use Microsoft Teams for live events. Organize a live event in the new Yammer. Schedule a live event in Yammer using Teams.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "0ca67c26-f365-47d0-b1fe-f2f670288927",
+      "c9bd21e2-4cef-4473-b1f0-147e8f144af0",
+      "36d3f3b4-866a-4169-8d10-c78e6bdde2d9",
+      "22e085c6-9923-43bd-b363-33d1e81c40d6",
+      "5066fb5a-a8c1-48cb-b1aa-9b0e2b4a1e7e"
+    ]
+  },
+
+
+
+  {
     "Id": "b873fd99-81be-483a-a8e0-16fcfe0fa120",
     "Title": "Create a form and view results",
     "Image": "images/playlists/create_a_formx.png",
