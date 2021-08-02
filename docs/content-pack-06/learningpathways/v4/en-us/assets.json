@@ -3618,61 +3618,7 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-  {
-    "Id": "0ca67c26-f365-47d0-b1fe-f2f670288927",
-    "Title": "Use live events to reach large audiences",
-    "Description": "",
-    "Url": "https://support.office.com/en-us/client/08d4d9df-d1a7-4968-b844-51c9d4aae3c2?embed=true",
-    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-  {
-    "Id": "c9bd21e2-4cef-4473-b1f0-147e8f144af0",
-    "Title": "Get started using Microsoft Teams for live events",
-    "Description": "",
-    "Url": "https://support.office.com/client/-d077fec2-a058-483e-9ab5-1494afda578a?embed=true",
-    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-  {
-    "Id": "36d3f3b4-866a-4169-8d10-c78e6bdde2d9",
-    "Title": "Plan and schedule a live event in Teams",
-    "Description": "",
-    "Url": "https://support.office.com/en-us/client/f92363a0-6d98-46d2-bdd9-f2248075e502?embed=true",
-    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-  {
-    "Id": "22e085c6-9923-43bd-b363-33d1e81c40d6",
-    "Title": "Schedule a live event in Yammer using Teams",
-    "Description": "",
-    "Url": "https://support.office.com/en-us/client/d891bff6-eda2-493f-8b0d-d87932e7937d?embed=true",
-    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-  {
-    "Id": "5066fb5a-a8c1-48cb-b1aa-9b0e2b4a1e7e",
-    "Title": "Organize a live event in Yammer",
-    "Description": "",
-    "Url": "https://support.office.com/en-us/client/7338782a-4f0b-4fd0-a6c3-33625906ead1?embed=true",
-    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
+ 
   {
     "Id": "9c70b0eb-77db-42a6-95cd-c4fc592ef0f3",
     "Title": "Create a new form or quiz",
