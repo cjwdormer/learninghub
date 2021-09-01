@@ -1,44 +1,11 @@
 [
   {
     "Id": "f4785f97-2a2a-4819-a324-6c0da9998d9d",
-    "Title": "Dummy asset 01",
-    "Description": "Dummy asset for SharePoint Online readiness",
+    "Title": "Dummy asset",
+    "Description": "Dummy asset only to be deleted",
     "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Demo-page-for-assets.aspx?embed=true",
     "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
-    "SubjectId": "f692a30f-d303-43d0-ac34-7b7ac520235d",
-    "Source": "Learning Hub Team",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
-  {
-    "Id": "424dd2e2-17b6-407d-9e24-bec66726183b",
-    "Title": "Dummy asset 02",
-    "Description": "This is another dummy asset for SharePoint Online readiness",
-    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Demo-page-for-assets.aspx?embed=true",
-    "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
-    "SubjectId": "f692a30f-d303-43d0-ac34-7b7ac520235d",
-    "Source": "Learning Hub Team",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
-  {
-    "Id": "55d12866-a226-45e4-b383-5c64872d3d15",
-    "Title": "Dummy asset 03",
-    "Description": "These are for demo purposes only for SharePoint Online readiness",
-    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Demo-page-for-assets.aspx?embed=true",
-    "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
-    "SubjectId": "501f68cc-359f-49fa-9598-fabffa0fd4ab",
-    "Source": "Learning Hub Team",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
-  {
-    "Id": "fc3f0c7b-7d88-4f94-acdd-13cf22945414",
-    "Title": "Dummy asset 04",
-    "Description": "Demo use only, thank you",
-    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Demo-page-for-assets.aspx?embed=true",
-    "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
-    "SubjectId": "185624bc-0513-4159-ba45-6b36ea505512",
+    "SubjectId": "",
     "Source": "Learning Hub Team",
     "StatusTagId": "",
     "StatusNote": ""
