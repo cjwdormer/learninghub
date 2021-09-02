@@ -9,5 +9,27 @@
     "Source": "Learning Hub Team",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "c39e7e12-2806-4a6e-80d2-68181824ee50",
+    "Title": "Quick look at SharePoint Online",
+    "Description": "Let us have a look at SharePoint Online",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Quick-look-at-SharePoint-Online.aspx",
+    "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "5369a165-3c20-4ecc-8617-6f737cc4b85e",
+    "Title": "Quick look at OneDrive",
+    "Description": "Let us have a look at OneDrive",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Quick-look-at-OneDrive.aspx",
+    "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
 ]
