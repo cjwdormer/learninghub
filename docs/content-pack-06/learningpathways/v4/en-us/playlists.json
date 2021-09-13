@@ -1491,6 +1491,27 @@
 
 
   {
+    "Id": "a9f15a2c-d815-40ea-b288-cc3b303e7bb9",
+    "Title": "Collaboration in M365 using SharePoint and Teams as an Owner",
+    "Image": "images/playlists/forms-share-collaborate.png",
+    "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+    "AudienceId": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
+    "TechnologyId": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "c31321f2-c120-4f1a-bf8a-edaa9a8bd097",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "f86faf8f-fa5c-48be-9a21-2c4f84913630",
+      "Breakdown of site owner responsibilities"
+    ]
+  },
+
+
+
+  {
     "Id": "cf352e8f-caf6-4e52-86d5-ae218004e089",
     "Title": "Create more accessible email messages in Outlook",
     "Image": "images/playlists/create-more-accessible-emails-in-outlook.png",
