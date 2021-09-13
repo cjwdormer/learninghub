@@ -6,23 +6,23 @@
       "Subjects": [
         {
           "Id": "8f099218-a91c-47e9-a792-37ef0d02a036",
-          "Name": "Basic functionality"
+          "Name": "Basic functionality training"
         },
         {
           "Id": "12dbb6ea-5043-4ea7-af2a-6036cc1b9e74",
-          "Name": "Enhanced package"
+          "Name": "Advance functioanlity training"
         },
         {
           "Id": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
-          "Name": "Site Owner package"
+          "Name": "Site Owner training"
         }
       ]
-    }, 
+    },
     {
       "Id": "054bac6f-2670-4cd1-8b38-087ff82754a2",
       "Name": "Accessibility",
       "Subjects": []
-    }, 
+    },
     {
       "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
       "Name": "Excel",
@@ -86,7 +86,7 @@
     {
       "Id": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
       "Name": "Quick start guides",
-      "Subjects":[]
+      "Subjects": []
     },
     {
       "Id": "",
@@ -111,7 +111,7 @@
           "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
           "Source": "Microsoft",
           "SubCategories": []
-        },  
+        },
         {
           "Id": "c86043b9-d419-4829-be46-4592b976910c",
           "Name": "Microsoft 365 (M365) Basics",
@@ -130,7 +130,7 @@
       "TechnologyId": "68c124be-00d8-4177-aae5-4ad3381fc838",
       "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
       "Source": "Learning Hub Team",
-      "SubCategories": [     
+      "SubCategories": [
         {
           "Id": "85c785c2-c873-4483-9728-64a367fee3f1",
           "Name": "Excel",
@@ -221,7 +221,6 @@
           "Source": "Microsoft",
           "SubCategories": []
         }
-        
       ]
     },
     {
@@ -258,15 +257,6 @@
           "SubjectId": "12dbb6ea-5043-4ea7-af2a-6036cc1b9e74",
           "Source": "Microsoft",
           "SubCategories": []
-        },
-        {
-          "Id": "",
-          "Name": "",
-          "Image": "images/categories/category-placeholder.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
         }
       ]
     },
@@ -279,8 +269,35 @@
       "Source": "Learning Hub Team",
       "SubCategories": [
         {
-          "Id": "",
-          "Name": "",
+          "Id": "c31321f2-c120-4f1a-bf8a-edaa9a8bd097",
+          "Name": "Overview of Teams and SharePoint for a Site Owner",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "ea7a2c0b-2f49-4683-89d7-d01753c123a8",
+          "Name": "Microsoft 365 Groups",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "37a12e26-aba6-4f98-b2b2-7bcea8d502b3",
+          "Name": "Microsoft Teams",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "bd5f092b-6f7b-4adb-91e0-da681715739d",
+          "Name": "SharePoint Online",
           "Image": "images/categories/category-placeholder.png",
           "TechnologyId": "",
           "SubjectId": "",
