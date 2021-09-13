@@ -3752,6 +3752,28 @@
     "StatusNote": ""
   },
   {
+    "Id": "f86faf8f-fa5c-48be-9a21-2c4f84913630",
+    "Title": "Collaboration in M365 using SharePoint and Teams",
+    "Description": "",
+    "Url": "https://support.microsoft.com/en-us/office/collaborating-with-teams-sharepoint-and-onedrive-9ea6aa07-6e5e-4917-9267-d4d361da3dea?embed=true",
+    "TechnologyId": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "f86faf8f-fa5c-48be-9a21-2c4f84913630",
+    "Title": "Collaboration in M365 using SharePoint and Teams",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub?embed=true",
+    "TechnologyId": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
+    "SubjectId": "",
+    "Source": "Learning Hub",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
     "Id": "d8de6398-e129-4019-8b34-b241e164456a",
     "Title": "Improve email accessibility",
     "Description": "",
