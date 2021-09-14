@@ -261,8 +261,8 @@
       ]
     },
     {
-      "Id": "",
-      "Name": "Site Owner package",
+      "Id": "010c8d62-ae2d-45ff-8d81-b41cfef76fad",
+      "Name": "Site Owner training",
       "Image": "images/categories/category-placeholder.png",
       "TechnologyId": "68c124be-00d8-4177-aae5-4ad3381fc838",
       "SubjectId": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
@@ -272,8 +272,8 @@
           "Id": "c31321f2-c120-4f1a-bf8a-edaa9a8bd097",
           "Name": "Overview of Teams and SharePoint for a Site Owner",
           "Image": "images/categories/category-placeholder.png",
-          "TechnologyId": "",
-          "SubjectId": "",
+          "TechnologyId": "0b09984a-ce63-4ffa-ad3e-30b2de4da3fe",
+          "SubjectId": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
           "Source": "Microsoft",
           "SubCategories": []
         },
@@ -281,8 +281,8 @@
           "Id": "ea7a2c0b-2f49-4683-89d7-d01753c123a8",
           "Name": "Microsoft 365 Groups",
           "Image": "images/categories/category-placeholder.png",
-          "TechnologyId": "",
-          "SubjectId": "",
+          "TechnologyId": "0b09984a-ce63-4ffa-ad3e-30b2de4da3fe",
+          "SubjectId": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
           "Source": "Microsoft",
           "SubCategories": []
         },
@@ -290,8 +290,8 @@
           "Id": "37a12e26-aba6-4f98-b2b2-7bcea8d502b3",
           "Name": "Microsoft Teams",
           "Image": "images/categories/category-placeholder.png",
-          "TechnologyId": "",
-          "SubjectId": "",
+          "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+          "SubjectId": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
           "Source": "Microsoft",
           "SubCategories": []
         },
@@ -299,8 +299,8 @@
           "Id": "bd5f092b-6f7b-4adb-91e0-da681715739d",
           "Name": "SharePoint Online",
           "Image": "images/categories/category-placeholder.png",
-          "TechnologyId": "",
-          "SubjectId": "",
+          "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+          "SubjectId": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
           "Source": "Microsoft",
           "SubCategories": []
         }
