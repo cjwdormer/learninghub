@@ -1489,18 +1489,17 @@
   },
 
 
-
   {
     "Id": "a9f15a2c-d815-40ea-b288-cc3b303e7bb9",
     "Title": "Collaboration in M365 using SharePoint and Teams as an Owner",
     "Image": "images/playlists/forms-share-collaborate.png",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
     "AudienceId": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
-    "TechnologyId": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
+    "TechnologyId": "0b09984a-ce63-4ffa-ad3e-30b2de4da3fe",
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "c31321f2-c120-4f1a-bf8a-edaa9a8bd097",
-    "Description": "",
+    "Description": "Just a quick look at Teams and SharePoint along with what this means for you as a site owner",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
