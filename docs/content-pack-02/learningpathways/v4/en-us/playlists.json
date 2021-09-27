@@ -631,23 +631,6 @@
     ]
   },
   {
-    "Id": "008b9974-d65f-4aac-9537-3ede6b2851d9",
-    "Title": "Controls",
-    "Image": "images/playlists/playlist-placeholder.png",
-    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
-    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-    "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
-    "SubjectId": "",
-    "Source": "The Learning Hub Team",
-    "CatId": "0c91a488-fb73-471f-bba2-fe6c3c26cb96",
-    "Description": "",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "f4785f97-2a2a-4819-a324-6c0da9998d9d"
-    ]
-  },
-  {
     "Id": "6202f0be-7f1d-4a10-9709-0450416b7ad0",
     "Title": "Guest permisisons (external users)",
     "Image": "images/playlists/playlist-placeholder.png",
