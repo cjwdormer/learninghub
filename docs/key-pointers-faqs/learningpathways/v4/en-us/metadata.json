@@ -1,0 +1,237 @@
+{
+  "Technologies": [
+    {
+      "Id": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+      "Name": "Accessibility",
+      "Subjects": []
+    },
+    {
+      "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+      "Name": "Excel",
+      "Subjects": []
+    },
+    {
+      "Id": "33059862-a87d-4b40-9984-be7c6083cf95",
+      "Name": "Forms",
+      "Subjects": []
+    },
+    {
+      "Id": "0b09984a-ce63-4ffa-ad3e-30b2de4da3fe",
+      "Name": "Microsoft 365 (M365)",
+      "Subjects": []
+    },
+    {
+      "Id": "c209f64e-0291-437a-9615-17747eab50d0",
+      "Name": "Microsoft Teams",
+      "Subjects": []
+    },
+    {
+      "Id": "944d9b59-7c3c-49cf-8ca5-a029ae3bd9c2",
+      "Name": "Office for the web",
+      "Subjects": []
+    },
+    {
+      "Id": "452e503b-bafb-4023-b00d-b6d9b1701596",
+      "Name": "OneDrive",
+      "Subjects": []
+    },
+    {
+      "Id": "4ba51921-475f-481d-8bc3-c9b0f658342c",
+      "Name": "OneNote",
+      "Subjects": []
+    },
+    {
+      "Id": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
+      "Name": "Outlook",
+      "Subjects": []
+    },
+    {
+      "Id": "2f571b54-44fa-4778-9277-c7935e36ffb3",
+      "Name": "Planner",
+      "Subjects": []
+    },
+    {
+      "Id": "8770a224-6b62-406f-9fd2-a51d4a8131a8",
+      "Name": "PowerPoint",
+      "Subjects": []
+    },
+    {
+      "Id": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+      "Name": "SharePoint",
+      "Subjects": []
+    },
+    {
+      "Id": "0eb89b8a-87cf-4388-b146-1e073588b029",
+      "Name": "Word",
+      "Subjects": []
+    },
+    {
+      "Id": "d93d3dce-38ca-426c-acd4-804628254c97",
+      "Name": "Skype",
+      "Subjects": []
+    },    
+    {
+      "Id": "e63861cd-421f-4c1d-8656-afe2ad18406c",
+      "Name": "Windows 10",
+      "Subjects": []
+    },
+    {
+      "Id": "38144635-a522-4ae4-8fc8-aa7e7886d0ed",
+      "Name": "Video recording",
+      "Subjects": []
+    },
+    {
+      "Id": "2386dc6a-5a8f-47dc-8119-1f5229b927b4",
+      "Name": "Video recording",
+      "Subjects": []
+    },
+    {
+      "Id": "9ddb9430-9c61-4075-b8fb-c11b87f2b532",
+      "Name": "Mobile",
+      "Subjects": []
+    },
+    {
+      "Id": "5681394d-e6f1-426a-b21d-5975c1158397",
+      "Name": "Identity Access Management (IAM)",
+      "Subjects": []
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "eb033503-88e8-4eb3-ab47-8f5019809839",
+      "Name": "Microsoft 365",
+      "Image": "images/categories/category-placeholder.png",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Learning Hub Team",
+      "SubCategories": [
+        {
+          "Id": "785880ea-f719-454b-979a-a1544546f01e",
+          "Name": "General Office and Microsoft 365 FAQs",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "0b09984a-ce63-4ffa-ad3e-30b2de4da3fe",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
+        {
+          "Id": "866aa564-5e8a-465f-8e99-5e1700e088cf",
+          "Name": "SharePoint Online FAQs",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
+        {
+          "Id": "9597f956-6f8b-4aad-aec1-6877dd89062c",
+          "Name": "Microsoft Teams FAQs",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "db03c5f2-026b-41fc-b837-19690d514b5a",
+      "Name": "Accessibility",
+      "Image": "images/categories/category-placeholder.png",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Learning Hub Team",
+      "SubCategories": [
+        {
+          "Id": "26013dee-0cff-49bf-aa87-085639985f11",
+          "Name": "Accessibility FAQs",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "427af91f-49c0-4d53-918d-3c3226f95c15",
+      "Name": "Windows 10",
+      "Image": "images/categories/category-placeholder.png",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Learning Hub Team",
+      "SubCategories": [
+        {
+          "Id": "8b6f2824-61f0-4cb1-bf2f-a2a7bdca0478",
+          "Name": "Windows 10 FAQs",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "e63861cd-421f-4c1d-8656-afe2ad18406c",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        }
+      ]
+    }
+  ],
+  "Audiences": [
+    {
+      "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "Name": "End User"
+    },
+    {
+      "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
+      "Name": "Owner"
+    },
+    {
+      "Id": "304b216c-ea4d-436c-83f8-93ba1319943b",
+      "Name": "Champion"
+    },
+    {
+      "Id": "0000d91a-143e-41f3-b0db-880a5e1bf80b",
+      "Name": "Trainer"
+    },
+    {
+      "Id": "4d0089b2-83fc-4049-b4c2-5d1e34727d6b",
+      "Name": "Admin"
+    }
+  ],
+  "Sources": [
+    ""
+  ],
+  "Levels": [
+    {
+      "Id": "5a958086-473d-46b3-92eb-c1e09c34263c",
+      "Name": "Beginner"
+    },
+    {
+      "Id": "7e98bcb4-85bd-4b78-9823-3283dab21064",
+      "Name": "Intermediate"
+    },
+    {
+      "Id": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+      "Name": "Advanced"
+    }
+  ],
+  "StatusTag": [
+    {
+      "Id": "164d99ed-c638-4dbb-8295-781312dee721",
+      "Name": "New"
+    },
+    {
+      "Id": "88c75433-02c4-4aab-9606-900fe099ea16",
+      "Name": "Updated"
+    },
+    {
+      "Id": "83289991-44b8-4274-943a-9b8dcfcb94f9",
+      "Name": "Retiring"
+    },
+    {
+      "Id": "45d78306-16fb-4ad4-affd-5314715a0323",
+      "Name": "Retired"
+    },
+    {
+      "Id": "78d72d69-8c00-4abd-a089-806d7822b250",
+      "Name": "Beta"
+    }
+  ]
+}
