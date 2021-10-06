@@ -1120,5 +1120,60 @@
     "Source": "Learning Hub Team",
     "StatusTagId": "",
     "StatusNote": ""
-  }
+  },
+  {
+    "Id": "201e4962-3c81-40a8-8899-ff0ccbdcebbc",
+    "Title": "Getting ready to move your documents",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Getting-ready-to-move-your-documents.aspx?embed=true",
+    "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }, 
+  {
+    "Id": "e89325e8-97b1-471f-9fe9-560e6e8467a9",
+    "Title": "Transferring files in folders from SharePoint 2013 to SharePoint Online",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Transferring-files-in-folders-from-SharePoint-2013-to-SharePoint-Online.aspx?embed=true",
+    "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }, 
+  {
+    "Id": "d5d5ed90-e4eb-4582-b642-161f014c9ea1",
+    "Title": "Using Metadata instead of folders",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Using-Metadata-instead-of-folders.aspx?embed=true",
+    "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }, 
+  {
+    "Id": "6d23339f-5f57-4c97-aa03-1c9c87811a0b",
+    "Title": "Adding columns for Metadata to a list or library",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Adding-columns-for-Metadata-to-a-list-or-library.aspx?embed=true",
+    "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }, 
+  {
+    "Id": "0060e95e-ba5d-45e5-a339-e17882abb5a3",
+    "Title": "Making your files work for you",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Making-your-files-work-for-you.aspx?embed=true",
+    "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  } 
 ]
