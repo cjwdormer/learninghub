@@ -34,7 +34,11 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "f4785f97-2a2a-4819-a324-6c0da9998d9d"
+      "201e4962-3c81-40a8-8899-ff0ccbdcebbc",
+      "e89325e8-97b1-471f-9fe9-560e6e8467a9",
+      "d5d5ed90-e4eb-4582-b642-161f014c9ea1",
+      "6d23339f-5f57-4c97-aa03-1c9c87811a0b",
+      "0060e95e-ba5d-45e5-a339-e17882abb5a3"
     ]
   },
   {
@@ -112,7 +116,8 @@
       "9ccd98bb-1d5a-4ff5-a5cc-b404d80ec6b8",
       "41253da2-652c-438c-ad2c-106e2ecf68ce",
       "788e1d90-02ae-4bd5-b6ec-b901d1d6a999",
-      "2a8eb2bc-8704-488b-92e6-a6e5a5c69c26"    ]
+      "2a8eb2bc-8704-488b-92e6-a6e5a5c69c26"    
+    ]
   },
   {
     "Id": "633cb649-f2dc-4436-b484-234f6b1b5bbd",
@@ -128,7 +133,11 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "f4785f97-2a2a-4819-a324-6c0da9998d9d"
+      "201e4962-3c81-40a8-8899-ff0ccbdcebbc",
+      "e89325e8-97b1-471f-9fe9-560e6e8467a9",
+      "d5d5ed90-e4eb-4582-b642-161f014c9ea1",
+      "6d23339f-5f57-4c97-aa03-1c9c87811a0b",
+      "0060e95e-ba5d-45e5-a339-e17882abb5a3"
     ]
   },
   {
