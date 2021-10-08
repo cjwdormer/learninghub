@@ -2,7 +2,7 @@
   {
     "Id": "690d2665-9fa8-42ca-8893-fbd0b47f605a",
     "Title": "Applications",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "",
@@ -19,7 +19,7 @@
   {
     "Id": "f65722d7-5862-4c14-8724-d85bc0675b82",
     "Title": "Forms",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "33059862-a87d-4b40-9984-be7c6083cf95",
@@ -36,7 +36,7 @@
   {
     "Id": "f3c4a62c-b6bd-4db4-a831-32261676fa4f",
     "Title": "Identity Access Management",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "5681394d-e6f1-426a-b21d-5975c1158397",
@@ -53,7 +53,7 @@
   {
     "Id": "8d5d8ec7-0783-41e0-8207-7c48bee3b964",
     "Title": "Mobile access",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "9ddb9430-9c61-4075-b8fb-c11b87f2b532",
@@ -70,7 +70,7 @@
   {
     "Id": "485c3915-ab4d-43c3-9723-7426eff10680",
     "Title": "OneNote",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "4ba51921-475f-481d-8bc3-c9b0f658342c",
@@ -87,7 +87,7 @@
   {
     "Id": "21025f48-5254-4121-916a-f536fcbdf23a",
     "Title": "Outlook",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
@@ -104,7 +104,7 @@
   {
     "Id": "4517b2ef-b2c7-42b0-a7f0-715c9fd67001",
     "Title": "Tasks by Planner",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "2f571b54-44fa-4778-9277-c7935e36ffb3",
@@ -121,7 +121,7 @@
   {
     "Id": "0bce5989-34bb-4e6a-9d8d-6b0ca9a02a00",
     "Title": "Video recording",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "38144635-a522-4ae4-8fc8-aa7e7886d0ed",
@@ -141,7 +141,7 @@
   {
     "Id": "5ae6deda-3f75-4174-95c7-76e6c3391672",
     "Title": "External guest access",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "5681394d-e6f1-426a-b21d-5975c1158397",
@@ -158,7 +158,7 @@
   {
     "Id": "47698db2-9951-4220-ae3f-a8d96a6b5571",
     "Title": "OneDrive",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "452e503b-bafb-4023-b00d-b6d9b1701596",
@@ -175,7 +175,7 @@
   {
     "Id": "55c36515-749c-4f2d-b66c-8378148bc654",
     "Title": "Security",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "5681394d-e6f1-426a-b21d-5975c1158397",
@@ -192,7 +192,7 @@
   {
     "Id": "b0865e82-900b-4d77-b3da-41fbbd9a7842",
     "Title": "SharePoint Online",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
@@ -212,7 +212,7 @@
   {
     "Id": "fd0fbb18-2804-47e0-ba91-0f5badef71f4",
     "Title": "Microsoft Teams",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -229,7 +229,7 @@
   {
     "Id": "505c2389-c167-4f8b-a9b5-b4b6f10c7105",
     "Title": "Channels",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -249,7 +249,7 @@
   {
     "Id": "41134d66-d186-4dba-979f-3a48d98cfc2d",
     "Title": "Accessibiltiy",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
@@ -269,7 +269,7 @@
   {
     "Id": "b36f4a92-443a-42b0-8c3e-d2320285ee88",
     "Title": "Windows 10",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "",
@@ -286,7 +286,7 @@
   {
     "Id": "42da6aa0-7c46-4e36-8e8c-bfe336dbd47b",
     "Title": "Skype",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "d93d3dce-38ca-426c-acd4-804628254c97",
