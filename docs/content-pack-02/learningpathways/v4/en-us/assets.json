@@ -3,17 +3,6 @@
     "Id": "",
     "Title": "",
     "Description": "",
-    "Url": "?embed=true",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Learning Hub Team",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
-  {
-    "Id": "f4785f97-2a2a-4819-a324-6c0da9998d9d",
-    "Title": "Dummy asset",
-    "Description": "Dummy asset only to be deleted",
     "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Demo-page-for-assets.aspx?embed=true",
     "TechnologyId": "",
     "SubjectId": "",
@@ -89,7 +78,7 @@
   },
   {
     "Id": "45c315f9-5444-4d65-8e1b-d97477058de6",
-    "Title": "Quick lok at OneDrive",
+    "Title": "Quick look at OneDrive",
     "Description": "",
     "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Quick-look-at-Onedrive.aspx?embed=true",
     "TechnologyId": "28b91d7c-f797-44d2-a9ea-b823b3ea26a3",
@@ -1057,7 +1046,7 @@
   },
   {
     "Id": "d1a81bce-87b0-4795-85b4-f76ec086f266",
-    "Title": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Additional-information.aspx",
+    "Title": "Additional information",
     "Description": "",
     "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Additional-information.aspx?embed=true",
     "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
@@ -1175,5 +1164,60 @@
     "Source": "Learning Hub Team",
     "StatusTagId": "",
     "StatusNote": ""
-  } 
+  },
+  {
+    "Id": "6cce7012-5f9d-4c85-ba01-6ffb802f65bb",
+    "Title": "Guest Permissions overview",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Guest-permissions-overview.aspx?embed=true",
+    "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },  
+  {
+    "Id": "ac51e714-25c7-470a-b752-dca78e19a0c2",
+    "Title": "Important information about guest permissions",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Important-information-about-guest-permissions.aspx?embed=true",
+    "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },  
+  {
+    "Id": "769edd01-a607-4384-830f-bac4d5867aa0",
+    "Title": "Key points to remember",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Key-points-to-remember.aspx?embed=true",
+    "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },  
+  {
+    "Id": "35db2d77-c701-41e8-b2b2-33ad5131df0c",
+    "Title": "Supporting playlists",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Supporting-playlists.aspx?embed=true",
+    "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "cfbcccbd-13a9-498a-af18-dc5cafb29437",
+    "Title": "Saving to SharePoint Online",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Saving-to-SharePoint-Online.aspx?embed=true",
+    "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }
 ]
