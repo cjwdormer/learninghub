@@ -2,14 +2,14 @@
   {
     "Id": "34cb9ae3-c5df-4c62-967e-e47493af12e5",
     "Title": "Data cleansing",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "ea15aa58-4bfc-46bd-af7e-d6b02653e805",
-    "Description": "",
+    "Description": "An overview of how to go through and weed your data in preparation to the move to SharePoint Online.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -23,7 +23,7 @@
   {
     "Id": "633cb649-f2dc-4436-b484-234f6b1b5bbd",
     "Title": "Migrating your data",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
@@ -44,31 +44,32 @@
   {
     "Id": "ba8f1f75-f7fe-4b99-aec5-563b01e64817",
     "Title": "Where to store your data?",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-wip.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "ea15aa58-4bfc-46bd-af7e-d6b02653e805",
-    "Description": "",
+    "Description": "A quick diagram to help you to determine if your documents should be stored on your Microsoft Teams SharePoint Site, OneDrive, or Microsoft Teams.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "f4785f97-2a2a-4819-a324-6c0da9998d9d"
+
     ]
   },
   {
     "Id": "9066cf6c-2033-484a-b3b2-ee8fbd884f22",
     "Title": "Legacy file formats",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "ea15aa58-4bfc-46bd-af7e-d6b02653e805",
-    "Description": "",
+    "Description": "This will show you how to locate and updates files that are saved in older formats. ",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -82,14 +83,14 @@
   {
     "Id": "d7747260-0e27-431b-b3c7-ad62528e47fb",
     "Title": "What is the is diffrence between SharePoint Online and Onedrive",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "ea15aa58-4bfc-46bd-af7e-d6b02653e805",
-    "Description": "",
+    "Description": "SharePoint and OneDrive are both storage facilities with P365. There are differences in how the two are used.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -101,14 +102,14 @@
   {
     "Id": "34cb9ae3-c5df-4c62-967e-e47493af12e5",
     "Title": "Data cleansing",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "28b91d7c-f797-44d2-a9ea-b823b3ea26a3",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "e75240c6-bfaf-4693-8091-ac3116f7cca0",
-    "Description": "",
+    "Description": "An overview of how to go through and weed your data in preparation to the move to SharePoint Online.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -116,13 +117,12 @@
       "9ccd98bb-1d5a-4ff5-a5cc-b404d80ec6b8",
       "41253da2-652c-438c-ad2c-106e2ecf68ce",
       "788e1d90-02ae-4bd5-b6ec-b901d1d6a999",
-      "2a8eb2bc-8704-488b-92e6-a6e5a5c69c26"    
-    ]
+      "2a8eb2bc-8704-488b-92e6-a6e5a5c69c26"    ]
   },
   {
     "Id": "633cb649-f2dc-4436-b484-234f6b1b5bbd",
     "Title": "Migrating your data",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "28b91d7c-f797-44d2-a9ea-b823b3ea26a3",
@@ -143,31 +143,32 @@
   {
     "Id": "ba8f1f75-f7fe-4b99-aec5-563b01e64817",
     "Title": "Where to store your data?",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-wip.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "28b91d7c-f797-44d2-a9ea-b823b3ea26a3",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "e75240c6-bfaf-4693-8091-ac3116f7cca0",
-    "Description": "",
+    "Description": "Repeated below: A quick diagram to help you to determine if your documents should be stored on your Microsoft Teams SharePoint Site, OneDrive, or Microsoft Teams.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "f4785f97-2a2a-4819-a324-6c0da9998d9d"
+
     ]
   },
   {
     "Id": "9066cf6c-2033-484a-b3b2-ee8fbd884f22",
     "Title": "Legacy file formats",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "28b91d7c-f797-44d2-a9ea-b823b3ea26a3",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "e75240c6-bfaf-4693-8091-ac3116f7cca0",
-    "Description": "",
+    "Description": "This will show you how to locate and updates files that are saved in older formats. ",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -181,14 +182,14 @@
   {
     "Id": "d7747260-0e27-431b-b3c7-ad62528e47fb",
     "Title": "What is the is diffrence between SharePoint Online and Onedrive",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "28b91d7c-f797-44d2-a9ea-b823b3ea26a3",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "e75240c6-bfaf-4693-8091-ac3116f7cca0",
-    "Description": "",
+    "Description": "SharePoint and OneDrive are both storage facilities with P365. There are differences in how the two are used.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -201,14 +202,14 @@
   {
     "Id": "b779ba08-278d-41f7-b2e3-bf0b99ae1287",
     "Title": "Data cleansing",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "ae14c406-edf8-4ec1-8996-d78d5a17c661",
-    "Description": "",
+    "Description": "An overview of how to go through and weed your data in preparation to the move to SharePoint Online.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -222,14 +223,14 @@
   {
     "Id": "a5080c6d-1c59-4a50-ade3-89aa9532f236",
     "Title": "Document structure and file tagging",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "ae14c406-edf8-4ec1-8996-d78d5a17c661",
-    "Description": "",
+    "Description": "As we migrate to SharePoint Online we are moving away from using subfolders and using file tagging (or metadata) to organise our files instead.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -246,14 +247,14 @@
   {
     "Id": "be857879-89b6-4bf0-a209-125002c2084b",
     "Title": "Searching for documents in SharePoint Online",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "ba92701f-678a-4223-93a5-6998f18acf72",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "ae14c406-edf8-4ec1-8996-d78d5a17c661",
-    "Description": "",
+    "Description": "A guide to instruct the user on how to search on SharePoint and the Intranet ",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -263,48 +264,49 @@
   {
     "Id": "6d5e8f86-ee08-43f5-b6a5-d15632b220b7",
     "Title": "Saving with SharePoint Online",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "28b91d7c-f797-44d2-a9ea-b823b3ea26a3",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "ae14c406-edf8-4ec1-8996-d78d5a17c661",
-    "Description": "",
+    "Description": "How to save files to SharePoint and how to also upload multiple files onto SharePoint.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "f4785f97-2a2a-4819-a324-6c0da9998d9d"
+      "cfbcccbd-13a9-498a-af18-dc5cafb29437"
     ]
   },
   {
     "Id": "e5df3a3c-aea8-467f-82dc-ab08922888c0",
     "Title": "Sharing from SharePoint Online",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "28b91d7c-f797-44d2-a9ea-b823b3ea26a3",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "ae14c406-edf8-4ec1-8996-d78d5a17c661",
-    "Description": "",
+    "Description": "Guidance of how to share Police Information from SharePoint Online with, an Individual, a Team within the force, an External partner, or Guest.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "84d02c9b-997e-4b7f-a8cf-6d6da429a5f6"
+
     ]
   },
   {
     "Id": "b33438eb-b03e-4dd6-8c9a-baa6fc7c51f9",
     "Title": "Sharing from OneDrive",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "28b91d7c-f797-44d2-a9ea-b823b3ea26a3",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "ae14c406-edf8-4ec1-8996-d78d5a17c661",
-    "Description": "",
+    "Description": "Guidance of how to share Police Information from OneDrive with, an Individual, a Team within the force, an External partner, or Guest.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -314,14 +316,14 @@
   {
     "Id": "36876c83-5173-49a4-a5c9-b5bc4bb01600",
     "Title": "Sharing a document with a Sensitivity Label",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "ae14c406-edf8-4ec1-8996-d78d5a17c661",
-    "Description": "",
+    "Description": "This playlist gives guidance on all Police Information with a ‘Sensitivity Label’. Both Surrey Police and Sussex Police classifications have five ‘Sensitivity Labels’ offering different levels of handling.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -335,14 +337,14 @@
   {
     "Id": "57b12089-bb66-44d9-aaa3-38b4d237025f",
     "Title": "Moving documents",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "ba92701f-678a-4223-93a5-6998f18acf72",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "ae14c406-edf8-4ec1-8996-d78d5a17c661",
-    "Description": "",
+    "Description": "Refer to this playlist in order to learn how to move playlists around your SharePoint site and other SharePoint sites.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -351,17 +353,20 @@
       "78fa4263-c304-491d-b3c3-757b09578da2"
     ]
   },
+
+
+
   {
     "Id": "b96f64cb-b51a-47fc-a9f3-2cbbad40ba71",
     "Title": "Data Cleansing",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "c5beb7de-325c-41d1-9ec4-49724003ebc4",
-    "Description": "",
+    "Description": "An overview of how to go through and weed your data in preparation to the move to SharePoint Online.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -375,14 +380,14 @@
   {
     "Id": "26a4818c-6480-4d98-b3b0-cf86ee1a419e",
     "Title": "Sensitivity levels and Labels",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "c5beb7de-325c-41d1-9ec4-49724003ebc4",
-    "Description": "",
+    "Description": "A sensitivity classification is a security level which is applied to protect all of the Forces’ information. It is guided by the three levels of ‘Government Security Classifications’ (GSC).",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -394,14 +399,14 @@
   {
     "Id": "88534067-5713-4ef3-b68b-3dba173dc172",
     "Title": "Retention guidelines",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "c5beb7de-325c-41d1-9ec4-49724003ebc4",
-    "Description": "",
+    "Description": "This playlist gives general guidance for the review, retention and disposal of information. We refer to a ‘Surrey and Sussex’s Retention Schedule’ to create consistency allowing us to understand how long we need to keep information.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -413,19 +418,20 @@
       "691ebe6b-e335-4a50-816d-d9c1d076bf21",
       "e761b829-f1e5-4c53-93ae-b955e2ac81cd",
       "2141f3fa-6840-4d75-8bef-44e03808439e"
+
     ]
   },
   {
     "Id": "3469e208-362b-450d-956f-9f88caf76fbf",
     "Title": "Email retention",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "c5beb7de-325c-41d1-9ec4-49724003ebc4",
-    "Description": "",
+    "Description": "This playlist gives general guidance for the review, retention and disposal of Emails in (Exchange / Outlook Online). We refer to a ‘Surrey and Sussex’s Retention Schedule’ to create consistency across both forces allowing us to ensure we all understand how long we need to keep Email information for.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -441,14 +447,14 @@
   {
     "Id": "1803752f-eab8-4ef4-80e8-321fe99c59a9",
     "Title": "Document structure and file tagging",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "c5beb7de-325c-41d1-9ec4-49724003ebc4",
-    "Description": "",
+    "Description": "As we migrate to SharePoint Online we are moving away from using subfolders and using file tagging (or metadata) to organise our files instead.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -464,16 +470,38 @@
     ]
   },
   {
+    "Id": "6d8333db-8ffc-426d-a2a1-42911cdc5967",
+    "Title": "Adding default Labels to a libaray",
+    "Image": "images/playlists/playlist-placeholder-img.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
+    "SubjectId": "",
+    "Source": "The Learning Hub Team",
+    "CatId": "c5beb7de-325c-41d1-9ec4-49724003ebc4",
+    "Description": "As we migrate to SharePoint Online we are moving away from using subfolders and using file tagging (or metadata) to organise our files instead. Look at this to help figure out how to make libraries automatically apply some Labels",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""
+
+    ]
+  },
+
+
+
+
+  {
     "Id": "d022eaf3-994a-4fb3-975a-ce30726af6ea",
     "Title": "UKGDPR and Data",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "606b94f1-952a-46cb-8ef2-76bf7765271a",
-    "Description": "",
+    "Description": "This playlist explains the different terms around data protection, and how the laws affect our work.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -486,14 +514,14 @@
   {
     "Id": "e3a98506-97c9-4aa6-9858-f5bde26111a8",
     "Title": "Sensitivity levels and Labels",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "606b94f1-952a-46cb-8ef2-76bf7765271a",
-    "Description": "",
+    "Description": "A sensitivity classification is a security level which is applied to protect all of the Forces’ information. It is guided by the three levels of ‘Government Security Classifications’ (GSC)",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -505,14 +533,14 @@
   {
     "Id": "4f87d66a-6f67-48e7-a3dd-9445fdc68ffb",
     "Title": "Managment of Police Information (MoPI)",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "606b94f1-952a-46cb-8ef2-76bf7765271a",
-    "Description": "",
+    "Description": "This playlist covers the principles of Management of Police Information (MoPI) and provides a way of balancing proportionality and necessity of effective police information management. highlighting the issues that need to be considered in order to comply with the law and risks associated with police information.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -526,31 +554,34 @@
   {
     "Id": "dd4b4e8f-c542-4822-b2c7-5df92950a4d9",
     "Title": "Guest Permssions (external users)",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "606b94f1-952a-46cb-8ef2-76bf7765271a",
-    "Description": "",
+    "Description": "The use of Guest Permissions (External Users) allows for the sharing of and collaboration on documents from your SharePoint Online Site, or OneDrive with someone outside of the force and should not be confused with ‘External Guest Access’.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "f4785f97-2a2a-4819-a324-6c0da9998d9d"
+      "6cce7012-5f9d-4c85-ba01-6ffb802f65bb",
+      "ac51e714-25c7-470a-b752-dca78e19a0c2",
+      "769edd01-a607-4384-830f-bac4d5867aa0",
+      "35db2d77-c701-41e8-b2b2-33ad5131df0c"
     ]
   },
   {
     "Id": "ffce9d60-ef84-441b-a9cf-ca2f1a467ff5",
     "Title": "Sharing Police information",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "606b94f1-952a-46cb-8ef2-76bf7765271a",
-    "Description": "",
+    "Description": "This playlist gives guidance in sharing Police Information and gives details of legislation that oversee sharing information. It also gives information about the processing of personal data for “law enforcement purposes”, basically a high-level view in ‘What to Do’ and ‘What Not to Do’ with regards to sharing Police Information.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -567,14 +598,14 @@
   {
     "Id": "0b52c5c9-051d-4455-8425-67b0cd4ed9ea",
     "Title": "Freedom of Information (FOI)",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "606b94f1-952a-46cb-8ef2-76bf7765271a",
-    "Description": "",
+    "Description": "This article gives a very high-level view of the Freedom of Information Act 2000 (FOIA) which provides any person, anywhere in the world the right to access information held by public authorities, subject to a number of exemptions. All police forces are separate public authorities subject to this Act.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -582,17 +613,20 @@
       "6f05ace3-5bc6-4d81-b468-366b03b086f5"
     ]
   },
+
+
+
   {
     "Id": "be93b599-dfe7-4444-8d7b-7d3adbc94189",
     "Title": "Site permisisons",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "0c91a488-fb73-471f-bba2-fe6c3c26cb96",
-    "Description": "",
+    "Description": "This playlist gives an overview of how to set up group and site permissions within SharePoint. There are important security issues which are covered in this playlist.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -606,14 +640,14 @@
   {
     "Id": "f8700f8c-bc22-4879-9700-c360f8b452b6",
     "Title": "Lirary permissions",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "0c91a488-fb73-471f-bba2-fe6c3c26cb96",
-    "Description": "",
+    "Description": "This playlist serves to inform the user on how to manage permissions within their SharePoint Library.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -624,14 +658,14 @@
   {
     "Id": "bd939598-9d8d-4615-bb59-93b8c462ba4f",
     "Title": "Teams permissions",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-wip.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "0c91a488-fb73-471f-bba2-fe6c3c26cb96",
-    "Description": "",
+    "Description": "This playlist gives an overview of how to set up group and site permissions within Teams. There are important security issues which are covered in this playlist.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -642,31 +676,37 @@
   {
     "Id": "6202f0be-7f1d-4a10-9709-0450416b7ad0",
     "Title": "Guest permisisons (external users)",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "0c91a488-fb73-471f-bba2-fe6c3c26cb96",
-    "Description": "",
+    "Description": "The use of Guest Permissions (External Users) allows for the sharing of, and collaboration on documents from your SharePoint Online Site, or OneDrive with someone outside of the force and should not be confused with ‘External Guest Access’.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "f4785f97-2a2a-4819-a324-6c0da9998d9d"
+      "6cce7012-5f9d-4c85-ba01-6ffb802f65bb",
+      "ac51e714-25c7-470a-b752-dca78e19a0c2",
+      "769edd01-a607-4384-830f-bac4d5867aa0",
+      "35db2d77-c701-41e8-b2b2-33ad5131df0c"
     ]
   },
+
+
+
   {
     "Id": "88534067-5713-4ef3-b68b-3dba173dc172",
     "Title": "Retention guidelines",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "dba87897-379a-4868-847b-92c89713f9ed",
-    "Description": "",
+    "Description": "This playlist gives general guidance for the review, retention and disposal of information. We refer to a ‘Surrey and Sussex’s Retention Schedule’ to create consistency allowing us to understand how long we need to keep information.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -683,14 +723,14 @@
   {
     "Id": "0986d5d3-2960-4833-8647-e87380f086c8",
     "Title": "Retention policies",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "dba87897-379a-4868-847b-92c89713f9ed",
-    "Description": "",
+    "Description": "By having Retention Policies in place, it allows us to manage information more effectively, applied to applications such as ‘SharePoint Online’, ‘Outlook’, ‘OneDrive’ and ‘Teams’ it allows information to be automatically deleted.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -703,14 +743,14 @@
   {
     "Id": "bb04b691-1da4-4166-a7a0-8bdf5541e94c",
     "Title": "Retention labels",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "dba87897-379a-4868-847b-92c89713f9ed",
-    "Description": "",
+    "Description": "This playlist gives general guidance to understanding the use of ‘Retention Labels’ on non-evidential information, Information held in systems such as ‘SharePoint Online’, ‘OneDrive’, ‘Exchange / Outlook Online’ etc.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -730,14 +770,14 @@
   {
     "Id": "3469e208-362b-450d-956f-9f88caf76fbf",
     "Title": "Email retention",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "dba87897-379a-4868-847b-92c89713f9ed",
-    "Description": "",
+    "Description": "This playlist gives general guidance for the review, retention and disposal of Emails in (Exchange / Outlook Online). We refer to a ‘Surrey and Sussex’s Retention Schedule’ to create consistency across both forces allowing us to ensure we all understand how long we need to keep Email information for.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -750,17 +790,20 @@
       "a241d671-6a27-418e-bf10-f1c94aedde21"
     ]
   },
+
+
+
   {
     "Id": "02cc373a-1002-4dae-985e-c424ffe88938",
     "Title": "Sensitivity Labels help pages",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "d0242f82-454e-4b5e-a450-4ef591729c4e",
-    "Description": "",
+    "Description": "A list of commonly asked questions with guidance on how to allocate and manage documents with a Sensitivity Label.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -780,14 +823,14 @@
   {
     "Id": "c097f695-fcdf-4650-9d64-b08bde9f14f4",
     "Title": "Sharing a document with a Sensitivity Label",
-    "Image": "images/playlists/playlist-placeholder.png",
+    "Image": "images/playlists/playlist-placeholder-img.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "The Learning Hub Team",
     "CatId": "d0242f82-454e-4b5e-a450-4ef591729c4e",
-    "Description": "",
+    "Description": "This playlist gives guidance on all Police Information with a ‘Sensitivity Label’. Both Surrey Police and Sussex Police classifications have five ‘Sensitivity Labels’ offering different levels of handling.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
