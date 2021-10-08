@@ -100,7 +100,7 @@
     {
       "Id": "eb033503-88e8-4eb3-ab47-8f5019809839",
       "Name": "Microsoft 365",
-      "Image": "images/categories/category-placeholder.png",
+      "Image": "images/categories/category-placeholder-img.png",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Learning Hub Team",
@@ -108,7 +108,7 @@
         {
           "Id": "785880ea-f719-454b-979a-a1544546f01e",
           "Name": "General Office and Microsoft 365 FAQs",
-          "Image": "images/categories/category-placeholder.png",
+          "Image": "images/categories/category-placeholder-img.png",
           "TechnologyId": "0b09984a-ce63-4ffa-ad3e-30b2de4da3fe",
           "SubjectId": "",
           "Source": "Learning Hub Team",
@@ -117,7 +117,7 @@
         {
           "Id": "866aa564-5e8a-465f-8e99-5e1700e088cf",
           "Name": "SharePoint Online FAQs",
-          "Image": "images/categories/category-placeholder.png",
+          "Image": "images/categories/category-placeholder-img.png",
           "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
           "SubjectId": "",
           "Source": "Learning Hub Team",
@@ -126,7 +126,7 @@
         {
           "Id": "9597f956-6f8b-4aad-aec1-6877dd89062c",
           "Name": "Microsoft Teams FAQs",
-          "Image": "images/categories/category-placeholder.png",
+          "Image": "images/categories/category-placeholder-img.png",
           "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
           "SubjectId": "",
           "Source": "Learning Hub Team",
@@ -137,7 +137,7 @@
     {
       "Id": "db03c5f2-026b-41fc-b837-19690d514b5a",
       "Name": "Accessibility",
-      "Image": "images/categories/category-placeholder.png",
+      "Image": "images/categories/category-placeholder-img.png",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Learning Hub Team",
@@ -145,7 +145,7 @@
         {
           "Id": "26013dee-0cff-49bf-aa87-085639985f11",
           "Name": "Accessibility FAQs",
-          "Image": "images/categories/category-placeholder.png",
+          "Image": "images/categories/category-placeholder-img.png",
           "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
           "SubjectId": "",
           "Source": "Learning Hub Team",
@@ -156,7 +156,7 @@
     {
       "Id": "427af91f-49c0-4d53-918d-3c3226f95c15",
       "Name": "Windows 10",
-      "Image": "images/categories/category-placeholder.png",
+      "Image": "images/categories/category-placeholder-img.png",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Learning Hub Team",
@@ -164,7 +164,7 @@
         {
           "Id": "8b6f2824-61f0-4cb1-bf2f-a2a7bdca0478",
           "Name": "Windows 10 FAQs",
-          "Image": "images/categories/category-placeholder.png",
+          "Image": "images/categories/category-placeholder-img.png",
           "TechnologyId": "e63861cd-421f-4c1d-8656-afe2ad18406c",
           "SubjectId": "",
           "Source": "Learning Hub Team",
