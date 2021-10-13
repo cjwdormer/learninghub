@@ -1219,5 +1219,71 @@
     "Source": "Learning Hub Team",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+    {
+    "Id": "31545f20-505a-4ac9-ac2c-86d34c301ff7",
+    "Title": "Microsoft Teams permissions overview",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Microsoft-Teams-permissions-overview.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },   
+  {
+    "Id": "d2c5994f-a5bc-42d6-883f-89768941eb8c",
+    "Title": "Channels and permissions",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Channels-and-permissions.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },   
+  {
+    "Id": "0e7dc54c-ace9-47c3-b695-48a0c7542ef9",
+    "Title": "Table of what each role can do",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Table-of-what-each-role-can-do.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },   
+  {
+    "Id": "9a25dcca-cf6d-47f0-bd0d-34d4c68cf7c1",
+    "Title": "Channel moderation",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Channel-moderation.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },   
+  {
+    "Id": "6653f2b3-3251-4bb3-bc4f-91712541a818",
+    "Title": "Private vs standard channels and what that means in terms of permissions",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Private-vs-standard-channels-and-what-that-means-in-terms-of-permissions.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }, 
+  {
+    "Id": "c47c3f90-134a-43d7-8282-878ac880a84b",
+    "Title": "How to add a users to a Team",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/How-to-add-a-user-to-a-Team.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
 ]
